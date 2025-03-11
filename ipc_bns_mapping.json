@@ -1,0 +1,6502 @@
+[
+  {
+    "ipc_section": "1",
+    "ipc_title": "Sample IPC Title 1",
+    "bns_section": "1",
+    "bns_title": "Sample BNS Title 1",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 1 in English.",
+    "description_hindi": "धारा 1 का विवरण हिंदी में।",
+    "keywords": [
+      "section 1",
+      "1"
+    ]
+  },
+  {
+    "ipc_section": "2",
+    "ipc_title": "Sample IPC Title 2",
+    "bns_section": "2",
+    "bns_title": "Sample BNS Title 2",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 2 in English.",
+    "description_hindi": "धारा 2 का विवरण हिंदी में।",
+    "keywords": [
+      "section 2",
+      "2"
+    ]
+  },
+  {
+    "ipc_section": "3",
+    "ipc_title": "Sample IPC Title 3",
+    "bns_section": "3",
+    "bns_title": "Sample BNS Title 3",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 3 in English.",
+    "description_hindi": "धारा 3 का विवरण हिंदी में।",
+    "keywords": [
+      "section 3",
+      "3"
+    ]
+  },
+  {
+    "ipc_section": "4",
+    "ipc_title": "Sample IPC Title 4",
+    "bns_section": "4",
+    "bns_title": "Sample BNS Title 4",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 4 in English.",
+    "description_hindi": "धारा 4 का विवरण हिंदी में।",
+    "keywords": [
+      "section 4",
+      "4"
+    ]
+  },
+  {
+    "ipc_section": "5",
+    "ipc_title": "Sample IPC Title 5",
+    "bns_section": "5",
+    "bns_title": "Sample BNS Title 5",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 5 in English.",
+    "description_hindi": "धारा 5 का विवरण हिंदी में।",
+    "keywords": [
+      "section 5",
+      "5"
+    ]
+  },
+  {
+    "ipc_section": "6",
+    "ipc_title": "Sample IPC Title 6",
+    "bns_section": "6",
+    "bns_title": "Sample BNS Title 6",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 6 in English.",
+    "description_hindi": "धारा 6 का विवरण हिंदी में।",
+    "keywords": [
+      "section 6",
+      "6"
+    ]
+  },
+  {
+    "ipc_section": "7",
+    "ipc_title": "Sample IPC Title 7",
+    "bns_section": "7",
+    "bns_title": "Sample BNS Title 7",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 7 in English.",
+    "description_hindi": "धारा 7 का विवरण हिंदी में।",
+    "keywords": [
+      "section 7",
+      "7"
+    ]
+  },
+  {
+    "ipc_section": "8",
+    "ipc_title": "Sample IPC Title 8",
+    "bns_section": "8",
+    "bns_title": "Sample BNS Title 8",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 8 in English.",
+    "description_hindi": "धारा 8 का विवरण हिंदी में।",
+    "keywords": [
+      "section 8",
+      "8"
+    ]
+  },
+  {
+    "ipc_section": "9",
+    "ipc_title": "Sample IPC Title 9",
+    "bns_section": "9",
+    "bns_title": "Sample BNS Title 9",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 9 in English.",
+    "description_hindi": "धारा 9 का विवरण हिंदी में।",
+    "keywords": [
+      "section 9",
+      "9"
+    ]
+  },
+  {
+    "ipc_section": "10",
+    "ipc_title": "Sample IPC Title 10",
+    "bns_section": "10",
+    "bns_title": "Sample BNS Title 10",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 10 in English.",
+    "description_hindi": "धारा 10 का विवरण हिंदी में।",
+    "keywords": [
+      "section 10",
+      "10"
+    ]
+  },
+  {
+    "ipc_section": "11",
+    "ipc_title": "Sample IPC Title 11",
+    "bns_section": "11",
+    "bns_title": "Sample BNS Title 11",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 11 in English.",
+    "description_hindi": "धारा 11 का विवरण हिंदी में।",
+    "keywords": [
+      "section 11",
+      "11"
+    ]
+  },
+  {
+    "ipc_section": "12",
+    "ipc_title": "Sample IPC Title 12",
+    "bns_section": "12",
+    "bns_title": "Sample BNS Title 12",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 12 in English.",
+    "description_hindi": "धारा 12 का विवरण हिंदी में।",
+    "keywords": [
+      "section 12",
+      "12"
+    ]
+  },
+  {
+    "ipc_section": "13",
+    "ipc_title": "Sample IPC Title 13",
+    "bns_section": "13",
+    "bns_title": "Sample BNS Title 13",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 13 in English.",
+    "description_hindi": "धारा 13 का विवरण हिंदी में।",
+    "keywords": [
+      "section 13",
+      "13"
+    ]
+  },
+  {
+    "ipc_section": "14",
+    "ipc_title": "Sample IPC Title 14",
+    "bns_section": "14",
+    "bns_title": "Sample BNS Title 14",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 14 in English.",
+    "description_hindi": "धारा 14 का विवरण हिंदी में।",
+    "keywords": [
+      "section 14",
+      "14"
+    ]
+  },
+  {
+    "ipc_section": "15",
+    "ipc_title": "Sample IPC Title 15",
+    "bns_section": "15",
+    "bns_title": "Sample BNS Title 15",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 15 in English.",
+    "description_hindi": "धारा 15 का विवरण हिंदी में।",
+    "keywords": [
+      "section 15",
+      "15"
+    ]
+  },
+  {
+    "ipc_section": "16",
+    "ipc_title": "Sample IPC Title 16",
+    "bns_section": "16",
+    "bns_title": "Sample BNS Title 16",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 16 in English.",
+    "description_hindi": "धारा 16 का विवरण हिंदी में।",
+    "keywords": [
+      "section 16",
+      "16"
+    ]
+  },
+  {
+    "ipc_section": "17",
+    "ipc_title": "Sample IPC Title 17",
+    "bns_section": "17",
+    "bns_title": "Sample BNS Title 17",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 17 in English.",
+    "description_hindi": "धारा 17 का विवरण हिंदी में।",
+    "keywords": [
+      "section 17",
+      "17"
+    ]
+  },
+  {
+    "ipc_section": "18",
+    "ipc_title": "Sample IPC Title 18",
+    "bns_section": "18",
+    "bns_title": "Sample BNS Title 18",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 18 in English.",
+    "description_hindi": "धारा 18 का विवरण हिंदी में।",
+    "keywords": [
+      "section 18",
+      "18"
+    ]
+  },
+  {
+    "ipc_section": "19",
+    "ipc_title": "Sample IPC Title 19",
+    "bns_section": "19",
+    "bns_title": "Sample BNS Title 19",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 19 in English.",
+    "description_hindi": "धारा 19 का विवरण हिंदी में।",
+    "keywords": [
+      "section 19",
+      "19"
+    ]
+  },
+  {
+    "ipc_section": "20",
+    "ipc_title": "Sample IPC Title 20",
+    "bns_section": "20",
+    "bns_title": "Sample BNS Title 20",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 20 in English.",
+    "description_hindi": "धारा 20 का विवरण हिंदी में।",
+    "keywords": [
+      "section 20",
+      "20"
+    ]
+  },
+  {
+    "ipc_section": "21",
+    "ipc_title": "Sample IPC Title 21",
+    "bns_section": "21",
+    "bns_title": "Sample BNS Title 21",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 21 in English.",
+    "description_hindi": "धारा 21 का विवरण हिंदी में।",
+    "keywords": [
+      "section 21",
+      "21"
+    ]
+  },
+  {
+    "ipc_section": "22",
+    "ipc_title": "Sample IPC Title 22",
+    "bns_section": "22",
+    "bns_title": "Sample BNS Title 22",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 22 in English.",
+    "description_hindi": "धारा 22 का विवरण हिंदी में।",
+    "keywords": [
+      "section 22",
+      "22"
+    ]
+  },
+  {
+    "ipc_section": "23",
+    "ipc_title": "Sample IPC Title 23",
+    "bns_section": "23",
+    "bns_title": "Sample BNS Title 23",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 23 in English.",
+    "description_hindi": "धारा 23 का विवरण हिंदी में।",
+    "keywords": [
+      "section 23",
+      "23"
+    ]
+  },
+  {
+    "ipc_section": "24",
+    "ipc_title": "Sample IPC Title 24",
+    "bns_section": "24",
+    "bns_title": "Sample BNS Title 24",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 24 in English.",
+    "description_hindi": "धारा 24 का विवरण हिंदी में।",
+    "keywords": [
+      "section 24",
+      "24"
+    ]
+  },
+  {
+    "ipc_section": "25",
+    "ipc_title": "Sample IPC Title 25",
+    "bns_section": "25",
+    "bns_title": "Sample BNS Title 25",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 25 in English.",
+    "description_hindi": "धारा 25 का विवरण हिंदी में।",
+    "keywords": [
+      "section 25",
+      "25"
+    ]
+  },
+  {
+    "ipc_section": "26",
+    "ipc_title": "Sample IPC Title 26",
+    "bns_section": "26",
+    "bns_title": "Sample BNS Title 26",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 26 in English.",
+    "description_hindi": "धारा 26 का विवरण हिंदी में।",
+    "keywords": [
+      "section 26",
+      "26"
+    ]
+  },
+  {
+    "ipc_section": "27",
+    "ipc_title": "Sample IPC Title 27",
+    "bns_section": "27",
+    "bns_title": "Sample BNS Title 27",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 27 in English.",
+    "description_hindi": "धारा 27 का विवरण हिंदी में।",
+    "keywords": [
+      "section 27",
+      "27"
+    ]
+  },
+  {
+    "ipc_section": "28",
+    "ipc_title": "Sample IPC Title 28",
+    "bns_section": "28",
+    "bns_title": "Sample BNS Title 28",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 28 in English.",
+    "description_hindi": "धारा 28 का विवरण हिंदी में।",
+    "keywords": [
+      "section 28",
+      "28"
+    ]
+  },
+  {
+    "ipc_section": "29",
+    "ipc_title": "Sample IPC Title 29",
+    "bns_section": "29",
+    "bns_title": "Sample BNS Title 29",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 29 in English.",
+    "description_hindi": "धारा 29 का विवरण हिंदी में।",
+    "keywords": [
+      "section 29",
+      "29"
+    ]
+  },
+  {
+    "ipc_section": "30",
+    "ipc_title": "Sample IPC Title 30",
+    "bns_section": "30",
+    "bns_title": "Sample BNS Title 30",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 30 in English.",
+    "description_hindi": "धारा 30 का विवरण हिंदी में।",
+    "keywords": [
+      "section 30",
+      "30"
+    ]
+  },
+  {
+    "ipc_section": "31",
+    "ipc_title": "Sample IPC Title 31",
+    "bns_section": "31",
+    "bns_title": "Sample BNS Title 31",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 31 in English.",
+    "description_hindi": "धारा 31 का विवरण हिंदी में।",
+    "keywords": [
+      "section 31",
+      "31"
+    ]
+  },
+  {
+    "ipc_section": "32",
+    "ipc_title": "Sample IPC Title 32",
+    "bns_section": "32",
+    "bns_title": "Sample BNS Title 32",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 32 in English.",
+    "description_hindi": "धारा 32 का विवरण हिंदी में।",
+    "keywords": [
+      "section 32",
+      "32"
+    ]
+  },
+  {
+    "ipc_section": "33",
+    "ipc_title": "Sample IPC Title 33",
+    "bns_section": "33",
+    "bns_title": "Sample BNS Title 33",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 33 in English.",
+    "description_hindi": "धारा 33 का विवरण हिंदी में।",
+    "keywords": [
+      "section 33",
+      "33"
+    ]
+  },
+  {
+    "ipc_section": "34",
+    "ipc_title": "Sample IPC Title 34",
+    "bns_section": "34",
+    "bns_title": "Sample BNS Title 34",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 34 in English.",
+    "description_hindi": "धारा 34 का विवरण हिंदी में।",
+    "keywords": [
+      "section 34",
+      "34"
+    ]
+  },
+  {
+    "ipc_section": "35",
+    "ipc_title": "Sample IPC Title 35",
+    "bns_section": "35",
+    "bns_title": "Sample BNS Title 35",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 35 in English.",
+    "description_hindi": "धारा 35 का विवरण हिंदी में।",
+    "keywords": [
+      "section 35",
+      "35"
+    ]
+  },
+  {
+    "ipc_section": "36",
+    "ipc_title": "Sample IPC Title 36",
+    "bns_section": "36",
+    "bns_title": "Sample BNS Title 36",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 36 in English.",
+    "description_hindi": "धारा 36 का विवरण हिंदी में।",
+    "keywords": [
+      "section 36",
+      "36"
+    ]
+  },
+  {
+    "ipc_section": "37",
+    "ipc_title": "Sample IPC Title 37",
+    "bns_section": "37",
+    "bns_title": "Sample BNS Title 37",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 37 in English.",
+    "description_hindi": "धारा 37 का विवरण हिंदी में।",
+    "keywords": [
+      "section 37",
+      "37"
+    ]
+  },
+  {
+    "ipc_section": "38",
+    "ipc_title": "Sample IPC Title 38",
+    "bns_section": "38",
+    "bns_title": "Sample BNS Title 38",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 38 in English.",
+    "description_hindi": "धारा 38 का विवरण हिंदी में।",
+    "keywords": [
+      "section 38",
+      "38"
+    ]
+  },
+  {
+    "ipc_section": "39",
+    "ipc_title": "Sample IPC Title 39",
+    "bns_section": "39",
+    "bns_title": "Sample BNS Title 39",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 39 in English.",
+    "description_hindi": "धारा 39 का विवरण हिंदी में।",
+    "keywords": [
+      "section 39",
+      "39"
+    ]
+  },
+  {
+    "ipc_section": "40",
+    "ipc_title": "Sample IPC Title 40",
+    "bns_section": "40",
+    "bns_title": "Sample BNS Title 40",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 40 in English.",
+    "description_hindi": "धारा 40 का विवरण हिंदी में।",
+    "keywords": [
+      "section 40",
+      "40"
+    ]
+  },
+  {
+    "ipc_section": "41",
+    "ipc_title": "Sample IPC Title 41",
+    "bns_section": "41",
+    "bns_title": "Sample BNS Title 41",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 41 in English.",
+    "description_hindi": "धारा 41 का विवरण हिंदी में।",
+    "keywords": [
+      "section 41",
+      "41"
+    ]
+  },
+  {
+    "ipc_section": "42",
+    "ipc_title": "Sample IPC Title 42",
+    "bns_section": "42",
+    "bns_title": "Sample BNS Title 42",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 42 in English.",
+    "description_hindi": "धारा 42 का विवरण हिंदी में।",
+    "keywords": [
+      "section 42",
+      "42"
+    ]
+  },
+  {
+    "ipc_section": "43",
+    "ipc_title": "Sample IPC Title 43",
+    "bns_section": "43",
+    "bns_title": "Sample BNS Title 43",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 43 in English.",
+    "description_hindi": "धारा 43 का विवरण हिंदी में।",
+    "keywords": [
+      "section 43",
+      "43"
+    ]
+  },
+  {
+    "ipc_section": "44",
+    "ipc_title": "Sample IPC Title 44",
+    "bns_section": "44",
+    "bns_title": "Sample BNS Title 44",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 44 in English.",
+    "description_hindi": "धारा 44 का विवरण हिंदी में।",
+    "keywords": [
+      "section 44",
+      "44"
+    ]
+  },
+  {
+    "ipc_section": "45",
+    "ipc_title": "Sample IPC Title 45",
+    "bns_section": "45",
+    "bns_title": "Sample BNS Title 45",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 45 in English.",
+    "description_hindi": "धारा 45 का विवरण हिंदी में।",
+    "keywords": [
+      "section 45",
+      "45"
+    ]
+  },
+  {
+    "ipc_section": "46",
+    "ipc_title": "Sample IPC Title 46",
+    "bns_section": "46",
+    "bns_title": "Sample BNS Title 46",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 46 in English.",
+    "description_hindi": "धारा 46 का विवरण हिंदी में।",
+    "keywords": [
+      "section 46",
+      "46"
+    ]
+  },
+  {
+    "ipc_section": "47",
+    "ipc_title": "Sample IPC Title 47",
+    "bns_section": "47",
+    "bns_title": "Sample BNS Title 47",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 47 in English.",
+    "description_hindi": "धारा 47 का विवरण हिंदी में।",
+    "keywords": [
+      "section 47",
+      "47"
+    ]
+  },
+  {
+    "ipc_section": "48",
+    "ipc_title": "Sample IPC Title 48",
+    "bns_section": "48",
+    "bns_title": "Sample BNS Title 48",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 48 in English.",
+    "description_hindi": "धारा 48 का विवरण हिंदी में।",
+    "keywords": [
+      "section 48",
+      "48"
+    ]
+  },
+  {
+    "ipc_section": "49",
+    "ipc_title": "Sample IPC Title 49",
+    "bns_section": "49",
+    "bns_title": "Sample BNS Title 49",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 49 in English.",
+    "description_hindi": "धारा 49 का विवरण हिंदी में।",
+    "keywords": [
+      "section 49",
+      "49"
+    ]
+  },
+  {
+    "ipc_section": "50",
+    "ipc_title": "Sample IPC Title 50",
+    "bns_section": "50",
+    "bns_title": "Sample BNS Title 50",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 50 in English.",
+    "description_hindi": "धारा 50 का विवरण हिंदी में।",
+    "keywords": [
+      "section 50",
+      "50"
+    ]
+  },
+  {
+    "ipc_section": "51",
+    "ipc_title": "Sample IPC Title 51",
+    "bns_section": "51",
+    "bns_title": "Sample BNS Title 51",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 51 in English.",
+    "description_hindi": "धारा 51 का विवरण हिंदी में।",
+    "keywords": [
+      "section 51",
+      "51"
+    ]
+  },
+  {
+    "ipc_section": "52",
+    "ipc_title": "Sample IPC Title 52",
+    "bns_section": "52",
+    "bns_title": "Sample BNS Title 52",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 52 in English.",
+    "description_hindi": "धारा 52 का विवरण हिंदी में।",
+    "keywords": [
+      "section 52",
+      "52"
+    ]
+  },
+  {
+    "ipc_section": "53",
+    "ipc_title": "Sample IPC Title 53",
+    "bns_section": "53",
+    "bns_title": "Sample BNS Title 53",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 53 in English.",
+    "description_hindi": "धारा 53 का विवरण हिंदी में।",
+    "keywords": [
+      "section 53",
+      "53"
+    ]
+  },
+  {
+    "ipc_section": "54",
+    "ipc_title": "Sample IPC Title 54",
+    "bns_section": "54",
+    "bns_title": "Sample BNS Title 54",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 54 in English.",
+    "description_hindi": "धारा 54 का विवरण हिंदी में।",
+    "keywords": [
+      "section 54",
+      "54"
+    ]
+  },
+  {
+    "ipc_section": "55",
+    "ipc_title": "Sample IPC Title 55",
+    "bns_section": "55",
+    "bns_title": "Sample BNS Title 55",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 55 in English.",
+    "description_hindi": "धारा 55 का विवरण हिंदी में।",
+    "keywords": [
+      "section 55",
+      "55"
+    ]
+  },
+  {
+    "ipc_section": "56",
+    "ipc_title": "Sample IPC Title 56",
+    "bns_section": "56",
+    "bns_title": "Sample BNS Title 56",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 56 in English.",
+    "description_hindi": "धारा 56 का विवरण हिंदी में।",
+    "keywords": [
+      "section 56",
+      "56"
+    ]
+  },
+  {
+    "ipc_section": "57",
+    "ipc_title": "Sample IPC Title 57",
+    "bns_section": "57",
+    "bns_title": "Sample BNS Title 57",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 57 in English.",
+    "description_hindi": "धारा 57 का विवरण हिंदी में।",
+    "keywords": [
+      "section 57",
+      "57"
+    ]
+  },
+  {
+    "ipc_section": "58",
+    "ipc_title": "Sample IPC Title 58",
+    "bns_section": "58",
+    "bns_title": "Sample BNS Title 58",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 58 in English.",
+    "description_hindi": "धारा 58 का विवरण हिंदी में।",
+    "keywords": [
+      "section 58",
+      "58"
+    ]
+  },
+  {
+    "ipc_section": "59",
+    "ipc_title": "Sample IPC Title 59",
+    "bns_section": "59",
+    "bns_title": "Sample BNS Title 59",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 59 in English.",
+    "description_hindi": "धारा 59 का विवरण हिंदी में।",
+    "keywords": [
+      "section 59",
+      "59"
+    ]
+  },
+  {
+    "ipc_section": "60",
+    "ipc_title": "Sample IPC Title 60",
+    "bns_section": "60",
+    "bns_title": "Sample BNS Title 60",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 60 in English.",
+    "description_hindi": "धारा 60 का विवरण हिंदी में।",
+    "keywords": [
+      "section 60",
+      "60"
+    ]
+  },
+  {
+    "ipc_section": "61",
+    "ipc_title": "Sample IPC Title 61",
+    "bns_section": "61",
+    "bns_title": "Sample BNS Title 61",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 61 in English.",
+    "description_hindi": "धारा 61 का विवरण हिंदी में।",
+    "keywords": [
+      "section 61",
+      "61"
+    ]
+  },
+  {
+    "ipc_section": "62",
+    "ipc_title": "Sample IPC Title 62",
+    "bns_section": "62",
+    "bns_title": "Sample BNS Title 62",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 62 in English.",
+    "description_hindi": "धारा 62 का विवरण हिंदी में।",
+    "keywords": [
+      "section 62",
+      "62"
+    ]
+  },
+  {
+    "ipc_section": "63",
+    "ipc_title": "Sample IPC Title 63",
+    "bns_section": "63",
+    "bns_title": "Sample BNS Title 63",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 63 in English.",
+    "description_hindi": "धारा 63 का विवरण हिंदी में।",
+    "keywords": [
+      "section 63",
+      "63"
+    ]
+  },
+  {
+    "ipc_section": "64",
+    "ipc_title": "Sample IPC Title 64",
+    "bns_section": "64",
+    "bns_title": "Sample BNS Title 64",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 64 in English.",
+    "description_hindi": "धारा 64 का विवरण हिंदी में।",
+    "keywords": [
+      "section 64",
+      "64"
+    ]
+  },
+  {
+    "ipc_section": "65",
+    "ipc_title": "Sample IPC Title 65",
+    "bns_section": "65",
+    "bns_title": "Sample BNS Title 65",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 65 in English.",
+    "description_hindi": "धारा 65 का विवरण हिंदी में।",
+    "keywords": [
+      "section 65",
+      "65"
+    ]
+  },
+  {
+    "ipc_section": "66",
+    "ipc_title": "Sample IPC Title 66",
+    "bns_section": "66",
+    "bns_title": "Sample BNS Title 66",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 66 in English.",
+    "description_hindi": "धारा 66 का विवरण हिंदी में।",
+    "keywords": [
+      "section 66",
+      "66"
+    ]
+  },
+  {
+    "ipc_section": "67",
+    "ipc_title": "Sample IPC Title 67",
+    "bns_section": "67",
+    "bns_title": "Sample BNS Title 67",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 67 in English.",
+    "description_hindi": "धारा 67 का विवरण हिंदी में।",
+    "keywords": [
+      "section 67",
+      "67"
+    ]
+  },
+  {
+    "ipc_section": "68",
+    "ipc_title": "Sample IPC Title 68",
+    "bns_section": "68",
+    "bns_title": "Sample BNS Title 68",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 68 in English.",
+    "description_hindi": "धारा 68 का विवरण हिंदी में।",
+    "keywords": [
+      "section 68",
+      "68"
+    ]
+  },
+  {
+    "ipc_section": "69",
+    "ipc_title": "Sample IPC Title 69",
+    "bns_section": "69",
+    "bns_title": "Sample BNS Title 69",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 69 in English.",
+    "description_hindi": "धारा 69 का विवरण हिंदी में।",
+    "keywords": [
+      "section 69",
+      "69"
+    ]
+  },
+  {
+    "ipc_section": "70",
+    "ipc_title": "Sample IPC Title 70",
+    "bns_section": "70",
+    "bns_title": "Sample BNS Title 70",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 70 in English.",
+    "description_hindi": "धारा 70 का विवरण हिंदी में।",
+    "keywords": [
+      "section 70",
+      "70"
+    ]
+  },
+  {
+    "ipc_section": "71",
+    "ipc_title": "Sample IPC Title 71",
+    "bns_section": "71",
+    "bns_title": "Sample BNS Title 71",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 71 in English.",
+    "description_hindi": "धारा 71 का विवरण हिंदी में।",
+    "keywords": [
+      "section 71",
+      "71"
+    ]
+  },
+  {
+    "ipc_section": "72",
+    "ipc_title": "Sample IPC Title 72",
+    "bns_section": "72",
+    "bns_title": "Sample BNS Title 72",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 72 in English.",
+    "description_hindi": "धारा 72 का विवरण हिंदी में।",
+    "keywords": [
+      "section 72",
+      "72"
+    ]
+  },
+  {
+    "ipc_section": "73",
+    "ipc_title": "Sample IPC Title 73",
+    "bns_section": "73",
+    "bns_title": "Sample BNS Title 73",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 73 in English.",
+    "description_hindi": "धारा 73 का विवरण हिंदी में।",
+    "keywords": [
+      "section 73",
+      "73"
+    ]
+  },
+  {
+    "ipc_section": "74",
+    "ipc_title": "Sample IPC Title 74",
+    "bns_section": "74",
+    "bns_title": "Sample BNS Title 74",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 74 in English.",
+    "description_hindi": "धारा 74 का विवरण हिंदी में।",
+    "keywords": [
+      "section 74",
+      "74"
+    ]
+  },
+  {
+    "ipc_section": "75",
+    "ipc_title": "Sample IPC Title 75",
+    "bns_section": "75",
+    "bns_title": "Sample BNS Title 75",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 75 in English.",
+    "description_hindi": "धारा 75 का विवरण हिंदी में।",
+    "keywords": [
+      "section 75",
+      "75"
+    ]
+  },
+  {
+    "ipc_section": "76",
+    "ipc_title": "Sample IPC Title 76",
+    "bns_section": "76",
+    "bns_title": "Sample BNS Title 76",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 76 in English.",
+    "description_hindi": "धारा 76 का विवरण हिंदी में।",
+    "keywords": [
+      "section 76",
+      "76"
+    ]
+  },
+  {
+    "ipc_section": "77",
+    "ipc_title": "Sample IPC Title 77",
+    "bns_section": "77",
+    "bns_title": "Sample BNS Title 77",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 77 in English.",
+    "description_hindi": "धारा 77 का विवरण हिंदी में।",
+    "keywords": [
+      "section 77",
+      "77"
+    ]
+  },
+  {
+    "ipc_section": "78",
+    "ipc_title": "Sample IPC Title 78",
+    "bns_section": "78",
+    "bns_title": "Sample BNS Title 78",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 78 in English.",
+    "description_hindi": "धारा 78 का विवरण हिंदी में।",
+    "keywords": [
+      "section 78",
+      "78"
+    ]
+  },
+  {
+    "ipc_section": "79",
+    "ipc_title": "Sample IPC Title 79",
+    "bns_section": "79",
+    "bns_title": "Sample BNS Title 79",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 79 in English.",
+    "description_hindi": "धारा 79 का विवरण हिंदी में।",
+    "keywords": [
+      "section 79",
+      "79"
+    ]
+  },
+  {
+    "ipc_section": "80",
+    "ipc_title": "Sample IPC Title 80",
+    "bns_section": "80",
+    "bns_title": "Sample BNS Title 80",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 80 in English.",
+    "description_hindi": "धारा 80 का विवरण हिंदी में।",
+    "keywords": [
+      "section 80",
+      "80"
+    ]
+  },
+  {
+    "ipc_section": "81",
+    "ipc_title": "Sample IPC Title 81",
+    "bns_section": "81",
+    "bns_title": "Sample BNS Title 81",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 81 in English.",
+    "description_hindi": "धारा 81 का विवरण हिंदी में।",
+    "keywords": [
+      "section 81",
+      "81"
+    ]
+  },
+  {
+    "ipc_section": "82",
+    "ipc_title": "Sample IPC Title 82",
+    "bns_section": "82",
+    "bns_title": "Sample BNS Title 82",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 82 in English.",
+    "description_hindi": "धारा 82 का विवरण हिंदी में।",
+    "keywords": [
+      "section 82",
+      "82"
+    ]
+  },
+  {
+    "ipc_section": "83",
+    "ipc_title": "Sample IPC Title 83",
+    "bns_section": "83",
+    "bns_title": "Sample BNS Title 83",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 83 in English.",
+    "description_hindi": "धारा 83 का विवरण हिंदी में।",
+    "keywords": [
+      "section 83",
+      "83"
+    ]
+  },
+  {
+    "ipc_section": "84",
+    "ipc_title": "Sample IPC Title 84",
+    "bns_section": "84",
+    "bns_title": "Sample BNS Title 84",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 84 in English.",
+    "description_hindi": "धारा 84 का विवरण हिंदी में।",
+    "keywords": [
+      "section 84",
+      "84"
+    ]
+  },
+  {
+    "ipc_section": "85",
+    "ipc_title": "Sample IPC Title 85",
+    "bns_section": "85",
+    "bns_title": "Sample BNS Title 85",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 85 in English.",
+    "description_hindi": "धारा 85 का विवरण हिंदी में।",
+    "keywords": [
+      "section 85",
+      "85"
+    ]
+  },
+  {
+    "ipc_section": "86",
+    "ipc_title": "Sample IPC Title 86",
+    "bns_section": "86",
+    "bns_title": "Sample BNS Title 86",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 86 in English.",
+    "description_hindi": "धारा 86 का विवरण हिंदी में।",
+    "keywords": [
+      "section 86",
+      "86"
+    ]
+  },
+  {
+    "ipc_section": "87",
+    "ipc_title": "Sample IPC Title 87",
+    "bns_section": "87",
+    "bns_title": "Sample BNS Title 87",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 87 in English.",
+    "description_hindi": "धारा 87 का विवरण हिंदी में।",
+    "keywords": [
+      "section 87",
+      "87"
+    ]
+  },
+  {
+    "ipc_section": "88",
+    "ipc_title": "Sample IPC Title 88",
+    "bns_section": "88",
+    "bns_title": "Sample BNS Title 88",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 88 in English.",
+    "description_hindi": "धारा 88 का विवरण हिंदी में।",
+    "keywords": [
+      "section 88",
+      "88"
+    ]
+  },
+  {
+    "ipc_section": "89",
+    "ipc_title": "Sample IPC Title 89",
+    "bns_section": "89",
+    "bns_title": "Sample BNS Title 89",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 89 in English.",
+    "description_hindi": "धारा 89 का विवरण हिंदी में।",
+    "keywords": [
+      "section 89",
+      "89"
+    ]
+  },
+  {
+    "ipc_section": "90",
+    "ipc_title": "Sample IPC Title 90",
+    "bns_section": "90",
+    "bns_title": "Sample BNS Title 90",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 90 in English.",
+    "description_hindi": "धारा 90 का विवरण हिंदी में।",
+    "keywords": [
+      "section 90",
+      "90"
+    ]
+  },
+  {
+    "ipc_section": "91",
+    "ipc_title": "Sample IPC Title 91",
+    "bns_section": "91",
+    "bns_title": "Sample BNS Title 91",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 91 in English.",
+    "description_hindi": "धारा 91 का विवरण हिंदी में।",
+    "keywords": [
+      "section 91",
+      "91"
+    ]
+  },
+  {
+    "ipc_section": "92",
+    "ipc_title": "Sample IPC Title 92",
+    "bns_section": "92",
+    "bns_title": "Sample BNS Title 92",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 92 in English.",
+    "description_hindi": "धारा 92 का विवरण हिंदी में।",
+    "keywords": [
+      "section 92",
+      "92"
+    ]
+  },
+  {
+    "ipc_section": "93",
+    "ipc_title": "Sample IPC Title 93",
+    "bns_section": "93",
+    "bns_title": "Sample BNS Title 93",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 93 in English.",
+    "description_hindi": "धारा 93 का विवरण हिंदी में।",
+    "keywords": [
+      "section 93",
+      "93"
+    ]
+  },
+  {
+    "ipc_section": "94",
+    "ipc_title": "Sample IPC Title 94",
+    "bns_section": "94",
+    "bns_title": "Sample BNS Title 94",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 94 in English.",
+    "description_hindi": "धारा 94 का विवरण हिंदी में।",
+    "keywords": [
+      "section 94",
+      "94"
+    ]
+  },
+  {
+    "ipc_section": "95",
+    "ipc_title": "Sample IPC Title 95",
+    "bns_section": "95",
+    "bns_title": "Sample BNS Title 95",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 95 in English.",
+    "description_hindi": "धारा 95 का विवरण हिंदी में।",
+    "keywords": [
+      "section 95",
+      "95"
+    ]
+  },
+  {
+    "ipc_section": "96",
+    "ipc_title": "Sample IPC Title 96",
+    "bns_section": "96",
+    "bns_title": "Sample BNS Title 96",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 96 in English.",
+    "description_hindi": "धारा 96 का विवरण हिंदी में।",
+    "keywords": [
+      "section 96",
+      "96"
+    ]
+  },
+  {
+    "ipc_section": "97",
+    "ipc_title": "Sample IPC Title 97",
+    "bns_section": "97",
+    "bns_title": "Sample BNS Title 97",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 97 in English.",
+    "description_hindi": "धारा 97 का विवरण हिंदी में।",
+    "keywords": [
+      "section 97",
+      "97"
+    ]
+  },
+  {
+    "ipc_section": "98",
+    "ipc_title": "Sample IPC Title 98",
+    "bns_section": "98",
+    "bns_title": "Sample BNS Title 98",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 98 in English.",
+    "description_hindi": "धारा 98 का विवरण हिंदी में।",
+    "keywords": [
+      "section 98",
+      "98"
+    ]
+  },
+  {
+    "ipc_section": "99",
+    "ipc_title": "Sample IPC Title 99",
+    "bns_section": "99",
+    "bns_title": "Sample BNS Title 99",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 99 in English.",
+    "description_hindi": "धारा 99 का विवरण हिंदी में।",
+    "keywords": [
+      "section 99",
+      "99"
+    ]
+  },
+  {
+    "ipc_section": "100",
+    "ipc_title": "Sample IPC Title 100",
+    "bns_section": "100",
+    "bns_title": "Sample BNS Title 100",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 100 in English.",
+    "description_hindi": "धारा 100 का विवरण हिंदी में।",
+    "keywords": [
+      "section 100",
+      "100"
+    ]
+  },
+  {
+    "ipc_section": "101",
+    "ipc_title": "Sample IPC Title 101",
+    "bns_section": "101",
+    "bns_title": "Sample BNS Title 101",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 101 in English.",
+    "description_hindi": "धारा 101 का विवरण हिंदी में।",
+    "keywords": [
+      "section 101",
+      "101"
+    ]
+  },
+  {
+    "ipc_section": "102",
+    "ipc_title": "Sample IPC Title 102",
+    "bns_section": "102",
+    "bns_title": "Sample BNS Title 102",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 102 in English.",
+    "description_hindi": "धारा 102 का विवरण हिंदी में।",
+    "keywords": [
+      "section 102",
+      "102"
+    ]
+  },
+  {
+    "ipc_section": "103",
+    "ipc_title": "Sample IPC Title 103",
+    "bns_section": "103",
+    "bns_title": "Sample BNS Title 103",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 103 in English.",
+    "description_hindi": "धारा 103 का विवरण हिंदी में।",
+    "keywords": [
+      "section 103",
+      "103"
+    ]
+  },
+  {
+    "ipc_section": "104",
+    "ipc_title": "Sample IPC Title 104",
+    "bns_section": "104",
+    "bns_title": "Sample BNS Title 104",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 104 in English.",
+    "description_hindi": "धारा 104 का विवरण हिंदी में।",
+    "keywords": [
+      "section 104",
+      "104"
+    ]
+  },
+  {
+    "ipc_section": "105",
+    "ipc_title": "Sample IPC Title 105",
+    "bns_section": "105",
+    "bns_title": "Sample BNS Title 105",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 105 in English.",
+    "description_hindi": "धारा 105 का विवरण हिंदी में।",
+    "keywords": [
+      "section 105",
+      "105"
+    ]
+  },
+  {
+    "ipc_section": "106",
+    "ipc_title": "Sample IPC Title 106",
+    "bns_section": "106",
+    "bns_title": "Sample BNS Title 106",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 106 in English.",
+    "description_hindi": "धारा 106 का विवरण हिंदी में।",
+    "keywords": [
+      "section 106",
+      "106"
+    ]
+  },
+  {
+    "ipc_section": "107",
+    "ipc_title": "Sample IPC Title 107",
+    "bns_section": "107",
+    "bns_title": "Sample BNS Title 107",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 107 in English.",
+    "description_hindi": "धारा 107 का विवरण हिंदी में।",
+    "keywords": [
+      "section 107",
+      "107"
+    ]
+  },
+  {
+    "ipc_section": "108",
+    "ipc_title": "Sample IPC Title 108",
+    "bns_section": "108",
+    "bns_title": "Sample BNS Title 108",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 108 in English.",
+    "description_hindi": "धारा 108 का विवरण हिंदी में।",
+    "keywords": [
+      "section 108",
+      "108"
+    ]
+  },
+  {
+    "ipc_section": "109",
+    "ipc_title": "Sample IPC Title 109",
+    "bns_section": "109",
+    "bns_title": "Sample BNS Title 109",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 109 in English.",
+    "description_hindi": "धारा 109 का विवरण हिंदी में।",
+    "keywords": [
+      "section 109",
+      "109"
+    ]
+  },
+  {
+    "ipc_section": "110",
+    "ipc_title": "Sample IPC Title 110",
+    "bns_section": "110",
+    "bns_title": "Sample BNS Title 110",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 110 in English.",
+    "description_hindi": "धारा 110 का विवरण हिंदी में।",
+    "keywords": [
+      "section 110",
+      "110"
+    ]
+  },
+  {
+    "ipc_section": "111",
+    "ipc_title": "Sample IPC Title 111",
+    "bns_section": "111",
+    "bns_title": "Sample BNS Title 111",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 111 in English.",
+    "description_hindi": "धारा 111 का विवरण हिंदी में।",
+    "keywords": [
+      "section 111",
+      "111"
+    ]
+  },
+  {
+    "ipc_section": "112",
+    "ipc_title": "Sample IPC Title 112",
+    "bns_section": "112",
+    "bns_title": "Sample BNS Title 112",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 112 in English.",
+    "description_hindi": "धारा 112 का विवरण हिंदी में।",
+    "keywords": [
+      "section 112",
+      "112"
+    ]
+  },
+  {
+    "ipc_section": "113",
+    "ipc_title": "Sample IPC Title 113",
+    "bns_section": "113",
+    "bns_title": "Sample BNS Title 113",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 113 in English.",
+    "description_hindi": "धारा 113 का विवरण हिंदी में।",
+    "keywords": [
+      "section 113",
+      "113"
+    ]
+  },
+  {
+    "ipc_section": "114",
+    "ipc_title": "Sample IPC Title 114",
+    "bns_section": "114",
+    "bns_title": "Sample BNS Title 114",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 114 in English.",
+    "description_hindi": "धारा 114 का विवरण हिंदी में।",
+    "keywords": [
+      "section 114",
+      "114"
+    ]
+  },
+  {
+    "ipc_section": "115",
+    "ipc_title": "Sample IPC Title 115",
+    "bns_section": "115",
+    "bns_title": "Sample BNS Title 115",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 115 in English.",
+    "description_hindi": "धारा 115 का विवरण हिंदी में।",
+    "keywords": [
+      "section 115",
+      "115"
+    ]
+  },
+  {
+    "ipc_section": "116",
+    "ipc_title": "Sample IPC Title 116",
+    "bns_section": "116",
+    "bns_title": "Sample BNS Title 116",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 116 in English.",
+    "description_hindi": "धारा 116 का विवरण हिंदी में।",
+    "keywords": [
+      "section 116",
+      "116"
+    ]
+  },
+  {
+    "ipc_section": "117",
+    "ipc_title": "Sample IPC Title 117",
+    "bns_section": "117",
+    "bns_title": "Sample BNS Title 117",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 117 in English.",
+    "description_hindi": "धारा 117 का विवरण हिंदी में।",
+    "keywords": [
+      "section 117",
+      "117"
+    ]
+  },
+  {
+    "ipc_section": "118",
+    "ipc_title": "Sample IPC Title 118",
+    "bns_section": "118",
+    "bns_title": "Sample BNS Title 118",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 118 in English.",
+    "description_hindi": "धारा 118 का विवरण हिंदी में।",
+    "keywords": [
+      "section 118",
+      "118"
+    ]
+  },
+  {
+    "ipc_section": "119",
+    "ipc_title": "Sample IPC Title 119",
+    "bns_section": "119",
+    "bns_title": "Sample BNS Title 119",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 119 in English.",
+    "description_hindi": "धारा 119 का विवरण हिंदी में।",
+    "keywords": [
+      "section 119",
+      "119"
+    ]
+  },
+  {
+    "ipc_section": "120",
+    "ipc_title": "Sample IPC Title 120",
+    "bns_section": "120",
+    "bns_title": "Sample BNS Title 120",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 120 in English.",
+    "description_hindi": "धारा 120 का विवरण हिंदी में।",
+    "keywords": [
+      "section 120",
+      "120"
+    ]
+  },
+  {
+    "ipc_section": "121",
+    "ipc_title": "Sample IPC Title 121",
+    "bns_section": "121",
+    "bns_title": "Sample BNS Title 121",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 121 in English.",
+    "description_hindi": "धारा 121 का विवरण हिंदी में।",
+    "keywords": [
+      "section 121",
+      "121"
+    ]
+  },
+  {
+    "ipc_section": "122",
+    "ipc_title": "Sample IPC Title 122",
+    "bns_section": "122",
+    "bns_title": "Sample BNS Title 122",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 122 in English.",
+    "description_hindi": "धारा 122 का विवरण हिंदी में।",
+    "keywords": [
+      "section 122",
+      "122"
+    ]
+  },
+  {
+    "ipc_section": "123",
+    "ipc_title": "Sample IPC Title 123",
+    "bns_section": "123",
+    "bns_title": "Sample BNS Title 123",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 123 in English.",
+    "description_hindi": "धारा 123 का विवरण हिंदी में।",
+    "keywords": [
+      "section 123",
+      "123"
+    ]
+  },
+  {
+    "ipc_section": "124",
+    "ipc_title": "Sample IPC Title 124",
+    "bns_section": "124",
+    "bns_title": "Sample BNS Title 124",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 124 in English.",
+    "description_hindi": "धारा 124 का विवरण हिंदी में।",
+    "keywords": [
+      "section 124",
+      "124"
+    ]
+  },
+  {
+    "ipc_section": "125",
+    "ipc_title": "Sample IPC Title 125",
+    "bns_section": "125",
+    "bns_title": "Sample BNS Title 125",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 125 in English.",
+    "description_hindi": "धारा 125 का विवरण हिंदी में।",
+    "keywords": [
+      "section 125",
+      "125"
+    ]
+  },
+  {
+    "ipc_section": "126",
+    "ipc_title": "Sample IPC Title 126",
+    "bns_section": "126",
+    "bns_title": "Sample BNS Title 126",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 126 in English.",
+    "description_hindi": "धारा 126 का विवरण हिंदी में।",
+    "keywords": [
+      "section 126",
+      "126"
+    ]
+  },
+  {
+    "ipc_section": "127",
+    "ipc_title": "Sample IPC Title 127",
+    "bns_section": "127",
+    "bns_title": "Sample BNS Title 127",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 127 in English.",
+    "description_hindi": "धारा 127 का विवरण हिंदी में।",
+    "keywords": [
+      "section 127",
+      "127"
+    ]
+  },
+  {
+    "ipc_section": "128",
+    "ipc_title": "Sample IPC Title 128",
+    "bns_section": "128",
+    "bns_title": "Sample BNS Title 128",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 128 in English.",
+    "description_hindi": "धारा 128 का विवरण हिंदी में।",
+    "keywords": [
+      "section 128",
+      "128"
+    ]
+  },
+  {
+    "ipc_section": "129",
+    "ipc_title": "Sample IPC Title 129",
+    "bns_section": "129",
+    "bns_title": "Sample BNS Title 129",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 129 in English.",
+    "description_hindi": "धारा 129 का विवरण हिंदी में।",
+    "keywords": [
+      "section 129",
+      "129"
+    ]
+  },
+  {
+    "ipc_section": "130",
+    "ipc_title": "Sample IPC Title 130",
+    "bns_section": "130",
+    "bns_title": "Sample BNS Title 130",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 130 in English.",
+    "description_hindi": "धारा 130 का विवरण हिंदी में।",
+    "keywords": [
+      "section 130",
+      "130"
+    ]
+  },
+  {
+    "ipc_section": "131",
+    "ipc_title": "Sample IPC Title 131",
+    "bns_section": "131",
+    "bns_title": "Sample BNS Title 131",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 131 in English.",
+    "description_hindi": "धारा 131 का विवरण हिंदी में।",
+    "keywords": [
+      "section 131",
+      "131"
+    ]
+  },
+  {
+    "ipc_section": "132",
+    "ipc_title": "Sample IPC Title 132",
+    "bns_section": "132",
+    "bns_title": "Sample BNS Title 132",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 132 in English.",
+    "description_hindi": "धारा 132 का विवरण हिंदी में।",
+    "keywords": [
+      "section 132",
+      "132"
+    ]
+  },
+  {
+    "ipc_section": "133",
+    "ipc_title": "Sample IPC Title 133",
+    "bns_section": "133",
+    "bns_title": "Sample BNS Title 133",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 133 in English.",
+    "description_hindi": "धारा 133 का विवरण हिंदी में।",
+    "keywords": [
+      "section 133",
+      "133"
+    ]
+  },
+  {
+    "ipc_section": "134",
+    "ipc_title": "Sample IPC Title 134",
+    "bns_section": "134",
+    "bns_title": "Sample BNS Title 134",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 134 in English.",
+    "description_hindi": "धारा 134 का विवरण हिंदी में।",
+    "keywords": [
+      "section 134",
+      "134"
+    ]
+  },
+  {
+    "ipc_section": "135",
+    "ipc_title": "Sample IPC Title 135",
+    "bns_section": "135",
+    "bns_title": "Sample BNS Title 135",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 135 in English.",
+    "description_hindi": "धारा 135 का विवरण हिंदी में।",
+    "keywords": [
+      "section 135",
+      "135"
+    ]
+  },
+  {
+    "ipc_section": "136",
+    "ipc_title": "Sample IPC Title 136",
+    "bns_section": "136",
+    "bns_title": "Sample BNS Title 136",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 136 in English.",
+    "description_hindi": "धारा 136 का विवरण हिंदी में।",
+    "keywords": [
+      "section 136",
+      "136"
+    ]
+  },
+  {
+    "ipc_section": "137",
+    "ipc_title": "Sample IPC Title 137",
+    "bns_section": "137",
+    "bns_title": "Sample BNS Title 137",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 137 in English.",
+    "description_hindi": "धारा 137 का विवरण हिंदी में।",
+    "keywords": [
+      "section 137",
+      "137"
+    ]
+  },
+  {
+    "ipc_section": "138",
+    "ipc_title": "Sample IPC Title 138",
+    "bns_section": "138",
+    "bns_title": "Sample BNS Title 138",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 138 in English.",
+    "description_hindi": "धारा 138 का विवरण हिंदी में।",
+    "keywords": [
+      "section 138",
+      "138"
+    ]
+  },
+  {
+    "ipc_section": "139",
+    "ipc_title": "Sample IPC Title 139",
+    "bns_section": "139",
+    "bns_title": "Sample BNS Title 139",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 139 in English.",
+    "description_hindi": "धारा 139 का विवरण हिंदी में।",
+    "keywords": [
+      "section 139",
+      "139"
+    ]
+  },
+  {
+    "ipc_section": "140",
+    "ipc_title": "Sample IPC Title 140",
+    "bns_section": "140",
+    "bns_title": "Sample BNS Title 140",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 140 in English.",
+    "description_hindi": "धारा 140 का विवरण हिंदी में।",
+    "keywords": [
+      "section 140",
+      "140"
+    ]
+  },
+  {
+    "ipc_section": "141",
+    "ipc_title": "Sample IPC Title 141",
+    "bns_section": "141",
+    "bns_title": "Sample BNS Title 141",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 141 in English.",
+    "description_hindi": "धारा 141 का विवरण हिंदी में।",
+    "keywords": [
+      "section 141",
+      "141"
+    ]
+  },
+  {
+    "ipc_section": "142",
+    "ipc_title": "Sample IPC Title 142",
+    "bns_section": "142",
+    "bns_title": "Sample BNS Title 142",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 142 in English.",
+    "description_hindi": "धारा 142 का विवरण हिंदी में।",
+    "keywords": [
+      "section 142",
+      "142"
+    ]
+  },
+  {
+    "ipc_section": "143",
+    "ipc_title": "Sample IPC Title 143",
+    "bns_section": "143",
+    "bns_title": "Sample BNS Title 143",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 143 in English.",
+    "description_hindi": "धारा 143 का विवरण हिंदी में।",
+    "keywords": [
+      "section 143",
+      "143"
+    ]
+  },
+  {
+    "ipc_section": "144",
+    "ipc_title": "Sample IPC Title 144",
+    "bns_section": "144",
+    "bns_title": "Sample BNS Title 144",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 144 in English.",
+    "description_hindi": "धारा 144 का विवरण हिंदी में।",
+    "keywords": [
+      "section 144",
+      "144"
+    ]
+  },
+  {
+    "ipc_section": "145",
+    "ipc_title": "Sample IPC Title 145",
+    "bns_section": "145",
+    "bns_title": "Sample BNS Title 145",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 145 in English.",
+    "description_hindi": "धारा 145 का विवरण हिंदी में।",
+    "keywords": [
+      "section 145",
+      "145"
+    ]
+  },
+  {
+    "ipc_section": "146",
+    "ipc_title": "Sample IPC Title 146",
+    "bns_section": "146",
+    "bns_title": "Sample BNS Title 146",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 146 in English.",
+    "description_hindi": "धारा 146 का विवरण हिंदी में।",
+    "keywords": [
+      "section 146",
+      "146"
+    ]
+  },
+  {
+    "ipc_section": "147",
+    "ipc_title": "Sample IPC Title 147",
+    "bns_section": "147",
+    "bns_title": "Sample BNS Title 147",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 147 in English.",
+    "description_hindi": "धारा 147 का विवरण हिंदी में।",
+    "keywords": [
+      "section 147",
+      "147"
+    ]
+  },
+  {
+    "ipc_section": "148",
+    "ipc_title": "Sample IPC Title 148",
+    "bns_section": "148",
+    "bns_title": "Sample BNS Title 148",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 148 in English.",
+    "description_hindi": "धारा 148 का विवरण हिंदी में।",
+    "keywords": [
+      "section 148",
+      "148"
+    ]
+  },
+  {
+    "ipc_section": "149",
+    "ipc_title": "Sample IPC Title 149",
+    "bns_section": "149",
+    "bns_title": "Sample BNS Title 149",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 149 in English.",
+    "description_hindi": "धारा 149 का विवरण हिंदी में।",
+    "keywords": [
+      "section 149",
+      "149"
+    ]
+  },
+  {
+    "ipc_section": "150",
+    "ipc_title": "Sample IPC Title 150",
+    "bns_section": "150",
+    "bns_title": "Sample BNS Title 150",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 150 in English.",
+    "description_hindi": "धारा 150 का विवरण हिंदी में।",
+    "keywords": [
+      "section 150",
+      "150"
+    ]
+  },
+  {
+    "ipc_section": "151",
+    "ipc_title": "Sample IPC Title 151",
+    "bns_section": "151",
+    "bns_title": "Sample BNS Title 151",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 151 in English.",
+    "description_hindi": "धारा 151 का विवरण हिंदी में।",
+    "keywords": [
+      "section 151",
+      "151"
+    ]
+  },
+  {
+    "ipc_section": "152",
+    "ipc_title": "Sample IPC Title 152",
+    "bns_section": "152",
+    "bns_title": "Sample BNS Title 152",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 152 in English.",
+    "description_hindi": "धारा 152 का विवरण हिंदी में।",
+    "keywords": [
+      "section 152",
+      "152"
+    ]
+  },
+  {
+    "ipc_section": "153",
+    "ipc_title": "Sample IPC Title 153",
+    "bns_section": "153",
+    "bns_title": "Sample BNS Title 153",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 153 in English.",
+    "description_hindi": "धारा 153 का विवरण हिंदी में।",
+    "keywords": [
+      "section 153",
+      "153"
+    ]
+  },
+  {
+    "ipc_section": "154",
+    "ipc_title": "Sample IPC Title 154",
+    "bns_section": "154",
+    "bns_title": "Sample BNS Title 154",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 154 in English.",
+    "description_hindi": "धारा 154 का विवरण हिंदी में।",
+    "keywords": [
+      "section 154",
+      "154"
+    ]
+  },
+  {
+    "ipc_section": "155",
+    "ipc_title": "Sample IPC Title 155",
+    "bns_section": "155",
+    "bns_title": "Sample BNS Title 155",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 155 in English.",
+    "description_hindi": "धारा 155 का विवरण हिंदी में।",
+    "keywords": [
+      "section 155",
+      "155"
+    ]
+  },
+  {
+    "ipc_section": "156",
+    "ipc_title": "Sample IPC Title 156",
+    "bns_section": "156",
+    "bns_title": "Sample BNS Title 156",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 156 in English.",
+    "description_hindi": "धारा 156 का विवरण हिंदी में।",
+    "keywords": [
+      "section 156",
+      "156"
+    ]
+  },
+  {
+    "ipc_section": "157",
+    "ipc_title": "Sample IPC Title 157",
+    "bns_section": "157",
+    "bns_title": "Sample BNS Title 157",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 157 in English.",
+    "description_hindi": "धारा 157 का विवरण हिंदी में।",
+    "keywords": [
+      "section 157",
+      "157"
+    ]
+  },
+  {
+    "ipc_section": "158",
+    "ipc_title": "Sample IPC Title 158",
+    "bns_section": "158",
+    "bns_title": "Sample BNS Title 158",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 158 in English.",
+    "description_hindi": "धारा 158 का विवरण हिंदी में।",
+    "keywords": [
+      "section 158",
+      "158"
+    ]
+  },
+  {
+    "ipc_section": "159",
+    "ipc_title": "Sample IPC Title 159",
+    "bns_section": "159",
+    "bns_title": "Sample BNS Title 159",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 159 in English.",
+    "description_hindi": "धारा 159 का विवरण हिंदी में।",
+    "keywords": [
+      "section 159",
+      "159"
+    ]
+  },
+  {
+    "ipc_section": "160",
+    "ipc_title": "Sample IPC Title 160",
+    "bns_section": "160",
+    "bns_title": "Sample BNS Title 160",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 160 in English.",
+    "description_hindi": "धारा 160 का विवरण हिंदी में।",
+    "keywords": [
+      "section 160",
+      "160"
+    ]
+  },
+  {
+    "ipc_section": "161",
+    "ipc_title": "Sample IPC Title 161",
+    "bns_section": "161",
+    "bns_title": "Sample BNS Title 161",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 161 in English.",
+    "description_hindi": "धारा 161 का विवरण हिंदी में।",
+    "keywords": [
+      "section 161",
+      "161"
+    ]
+  },
+  {
+    "ipc_section": "162",
+    "ipc_title": "Sample IPC Title 162",
+    "bns_section": "162",
+    "bns_title": "Sample BNS Title 162",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 162 in English.",
+    "description_hindi": "धारा 162 का विवरण हिंदी में।",
+    "keywords": [
+      "section 162",
+      "162"
+    ]
+  },
+  {
+    "ipc_section": "163",
+    "ipc_title": "Sample IPC Title 163",
+    "bns_section": "163",
+    "bns_title": "Sample BNS Title 163",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 163 in English.",
+    "description_hindi": "धारा 163 का विवरण हिंदी में।",
+    "keywords": [
+      "section 163",
+      "163"
+    ]
+  },
+  {
+    "ipc_section": "164",
+    "ipc_title": "Sample IPC Title 164",
+    "bns_section": "164",
+    "bns_title": "Sample BNS Title 164",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 164 in English.",
+    "description_hindi": "धारा 164 का विवरण हिंदी में।",
+    "keywords": [
+      "section 164",
+      "164"
+    ]
+  },
+  {
+    "ipc_section": "165",
+    "ipc_title": "Sample IPC Title 165",
+    "bns_section": "165",
+    "bns_title": "Sample BNS Title 165",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 165 in English.",
+    "description_hindi": "धारा 165 का विवरण हिंदी में।",
+    "keywords": [
+      "section 165",
+      "165"
+    ]
+  },
+  {
+    "ipc_section": "166",
+    "ipc_title": "Sample IPC Title 166",
+    "bns_section": "166",
+    "bns_title": "Sample BNS Title 166",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 166 in English.",
+    "description_hindi": "धारा 166 का विवरण हिंदी में।",
+    "keywords": [
+      "section 166",
+      "166"
+    ]
+  },
+  {
+    "ipc_section": "167",
+    "ipc_title": "Sample IPC Title 167",
+    "bns_section": "167",
+    "bns_title": "Sample BNS Title 167",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 167 in English.",
+    "description_hindi": "धारा 167 का विवरण हिंदी में।",
+    "keywords": [
+      "section 167",
+      "167"
+    ]
+  },
+  {
+    "ipc_section": "168",
+    "ipc_title": "Sample IPC Title 168",
+    "bns_section": "168",
+    "bns_title": "Sample BNS Title 168",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 168 in English.",
+    "description_hindi": "धारा 168 का विवरण हिंदी में।",
+    "keywords": [
+      "section 168",
+      "168"
+    ]
+  },
+  {
+    "ipc_section": "169",
+    "ipc_title": "Sample IPC Title 169",
+    "bns_section": "169",
+    "bns_title": "Sample BNS Title 169",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 169 in English.",
+    "description_hindi": "धारा 169 का विवरण हिंदी में।",
+    "keywords": [
+      "section 169",
+      "169"
+    ]
+  },
+  {
+    "ipc_section": "170",
+    "ipc_title": "Sample IPC Title 170",
+    "bns_section": "170",
+    "bns_title": "Sample BNS Title 170",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 170 in English.",
+    "description_hindi": "धारा 170 का विवरण हिंदी में।",
+    "keywords": [
+      "section 170",
+      "170"
+    ]
+  },
+  {
+    "ipc_section": "171",
+    "ipc_title": "Sample IPC Title 171",
+    "bns_section": "171",
+    "bns_title": "Sample BNS Title 171",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 171 in English.",
+    "description_hindi": "धारा 171 का विवरण हिंदी में।",
+    "keywords": [
+      "section 171",
+      "171"
+    ]
+  },
+  {
+    "ipc_section": "172",
+    "ipc_title": "Sample IPC Title 172",
+    "bns_section": "172",
+    "bns_title": "Sample BNS Title 172",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 172 in English.",
+    "description_hindi": "धारा 172 का विवरण हिंदी में।",
+    "keywords": [
+      "section 172",
+      "172"
+    ]
+  },
+  {
+    "ipc_section": "173",
+    "ipc_title": "Sample IPC Title 173",
+    "bns_section": "173",
+    "bns_title": "Sample BNS Title 173",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 173 in English.",
+    "description_hindi": "धारा 173 का विवरण हिंदी में।",
+    "keywords": [
+      "section 173",
+      "173"
+    ]
+  },
+  {
+    "ipc_section": "174",
+    "ipc_title": "Sample IPC Title 174",
+    "bns_section": "174",
+    "bns_title": "Sample BNS Title 174",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 174 in English.",
+    "description_hindi": "धारा 174 का विवरण हिंदी में।",
+    "keywords": [
+      "section 174",
+      "174"
+    ]
+  },
+  {
+    "ipc_section": "175",
+    "ipc_title": "Sample IPC Title 175",
+    "bns_section": "175",
+    "bns_title": "Sample BNS Title 175",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 175 in English.",
+    "description_hindi": "धारा 175 का विवरण हिंदी में।",
+    "keywords": [
+      "section 175",
+      "175"
+    ]
+  },
+  {
+    "ipc_section": "176",
+    "ipc_title": "Sample IPC Title 176",
+    "bns_section": "176",
+    "bns_title": "Sample BNS Title 176",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 176 in English.",
+    "description_hindi": "धारा 176 का विवरण हिंदी में।",
+    "keywords": [
+      "section 176",
+      "176"
+    ]
+  },
+  {
+    "ipc_section": "177",
+    "ipc_title": "Sample IPC Title 177",
+    "bns_section": "177",
+    "bns_title": "Sample BNS Title 177",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 177 in English.",
+    "description_hindi": "धारा 177 का विवरण हिंदी में।",
+    "keywords": [
+      "section 177",
+      "177"
+    ]
+  },
+  {
+    "ipc_section": "178",
+    "ipc_title": "Sample IPC Title 178",
+    "bns_section": "178",
+    "bns_title": "Sample BNS Title 178",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 178 in English.",
+    "description_hindi": "धारा 178 का विवरण हिंदी में।",
+    "keywords": [
+      "section 178",
+      "178"
+    ]
+  },
+  {
+    "ipc_section": "179",
+    "ipc_title": "Sample IPC Title 179",
+    "bns_section": "179",
+    "bns_title": "Sample BNS Title 179",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 179 in English.",
+    "description_hindi": "धारा 179 का विवरण हिंदी में।",
+    "keywords": [
+      "section 179",
+      "179"
+    ]
+  },
+  {
+    "ipc_section": "180",
+    "ipc_title": "Sample IPC Title 180",
+    "bns_section": "180",
+    "bns_title": "Sample BNS Title 180",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 180 in English.",
+    "description_hindi": "धारा 180 का विवरण हिंदी में।",
+    "keywords": [
+      "section 180",
+      "180"
+    ]
+  },
+  {
+    "ipc_section": "181",
+    "ipc_title": "Sample IPC Title 181",
+    "bns_section": "181",
+    "bns_title": "Sample BNS Title 181",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 181 in English.",
+    "description_hindi": "धारा 181 का विवरण हिंदी में।",
+    "keywords": [
+      "section 181",
+      "181"
+    ]
+  },
+  {
+    "ipc_section": "182",
+    "ipc_title": "Sample IPC Title 182",
+    "bns_section": "182",
+    "bns_title": "Sample BNS Title 182",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 182 in English.",
+    "description_hindi": "धारा 182 का विवरण हिंदी में।",
+    "keywords": [
+      "section 182",
+      "182"
+    ]
+  },
+  {
+    "ipc_section": "183",
+    "ipc_title": "Sample IPC Title 183",
+    "bns_section": "183",
+    "bns_title": "Sample BNS Title 183",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 183 in English.",
+    "description_hindi": "धारा 183 का विवरण हिंदी में।",
+    "keywords": [
+      "section 183",
+      "183"
+    ]
+  },
+  {
+    "ipc_section": "184",
+    "ipc_title": "Sample IPC Title 184",
+    "bns_section": "184",
+    "bns_title": "Sample BNS Title 184",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 184 in English.",
+    "description_hindi": "धारा 184 का विवरण हिंदी में।",
+    "keywords": [
+      "section 184",
+      "184"
+    ]
+  },
+  {
+    "ipc_section": "185",
+    "ipc_title": "Sample IPC Title 185",
+    "bns_section": "185",
+    "bns_title": "Sample BNS Title 185",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 185 in English.",
+    "description_hindi": "धारा 185 का विवरण हिंदी में।",
+    "keywords": [
+      "section 185",
+      "185"
+    ]
+  },
+  {
+    "ipc_section": "186",
+    "ipc_title": "Sample IPC Title 186",
+    "bns_section": "186",
+    "bns_title": "Sample BNS Title 186",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 186 in English.",
+    "description_hindi": "धारा 186 का विवरण हिंदी में।",
+    "keywords": [
+      "section 186",
+      "186"
+    ]
+  },
+  {
+    "ipc_section": "187",
+    "ipc_title": "Sample IPC Title 187",
+    "bns_section": "187",
+    "bns_title": "Sample BNS Title 187",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 187 in English.",
+    "description_hindi": "धारा 187 का विवरण हिंदी में।",
+    "keywords": [
+      "section 187",
+      "187"
+    ]
+  },
+  {
+    "ipc_section": "188",
+    "ipc_title": "Sample IPC Title 188",
+    "bns_section": "188",
+    "bns_title": "Sample BNS Title 188",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 188 in English.",
+    "description_hindi": "धारा 188 का विवरण हिंदी में।",
+    "keywords": [
+      "section 188",
+      "188"
+    ]
+  },
+  {
+    "ipc_section": "189",
+    "ipc_title": "Sample IPC Title 189",
+    "bns_section": "189",
+    "bns_title": "Sample BNS Title 189",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 189 in English.",
+    "description_hindi": "धारा 189 का विवरण हिंदी में।",
+    "keywords": [
+      "section 189",
+      "189"
+    ]
+  },
+  {
+    "ipc_section": "190",
+    "ipc_title": "Sample IPC Title 190",
+    "bns_section": "190",
+    "bns_title": "Sample BNS Title 190",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 190 in English.",
+    "description_hindi": "धारा 190 का विवरण हिंदी में।",
+    "keywords": [
+      "section 190",
+      "190"
+    ]
+  },
+  {
+    "ipc_section": "191",
+    "ipc_title": "Sample IPC Title 191",
+    "bns_section": "191",
+    "bns_title": "Sample BNS Title 191",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 191 in English.",
+    "description_hindi": "धारा 191 का विवरण हिंदी में।",
+    "keywords": [
+      "section 191",
+      "191"
+    ]
+  },
+  {
+    "ipc_section": "192",
+    "ipc_title": "Sample IPC Title 192",
+    "bns_section": "192",
+    "bns_title": "Sample BNS Title 192",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 192 in English.",
+    "description_hindi": "धारा 192 का विवरण हिंदी में।",
+    "keywords": [
+      "section 192",
+      "192"
+    ]
+  },
+  {
+    "ipc_section": "193",
+    "ipc_title": "Sample IPC Title 193",
+    "bns_section": "193",
+    "bns_title": "Sample BNS Title 193",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 193 in English.",
+    "description_hindi": "धारा 193 का विवरण हिंदी में।",
+    "keywords": [
+      "section 193",
+      "193"
+    ]
+  },
+  {
+    "ipc_section": "194",
+    "ipc_title": "Sample IPC Title 194",
+    "bns_section": "194",
+    "bns_title": "Sample BNS Title 194",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 194 in English.",
+    "description_hindi": "धारा 194 का विवरण हिंदी में।",
+    "keywords": [
+      "section 194",
+      "194"
+    ]
+  },
+  {
+    "ipc_section": "195",
+    "ipc_title": "Sample IPC Title 195",
+    "bns_section": "195",
+    "bns_title": "Sample BNS Title 195",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 195 in English.",
+    "description_hindi": "धारा 195 का विवरण हिंदी में।",
+    "keywords": [
+      "section 195",
+      "195"
+    ]
+  },
+  {
+    "ipc_section": "196",
+    "ipc_title": "Sample IPC Title 196",
+    "bns_section": "196",
+    "bns_title": "Sample BNS Title 196",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 196 in English.",
+    "description_hindi": "धारा 196 का विवरण हिंदी में।",
+    "keywords": [
+      "section 196",
+      "196"
+    ]
+  },
+  {
+    "ipc_section": "197",
+    "ipc_title": "Sample IPC Title 197",
+    "bns_section": "197",
+    "bns_title": "Sample BNS Title 197",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 197 in English.",
+    "description_hindi": "धारा 197 का विवरण हिंदी में।",
+    "keywords": [
+      "section 197",
+      "197"
+    ]
+  },
+  {
+    "ipc_section": "198",
+    "ipc_title": "Sample IPC Title 198",
+    "bns_section": "198",
+    "bns_title": "Sample BNS Title 198",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 198 in English.",
+    "description_hindi": "धारा 198 का विवरण हिंदी में।",
+    "keywords": [
+      "section 198",
+      "198"
+    ]
+  },
+  {
+    "ipc_section": "199",
+    "ipc_title": "Sample IPC Title 199",
+    "bns_section": "199",
+    "bns_title": "Sample BNS Title 199",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 199 in English.",
+    "description_hindi": "धारा 199 का विवरण हिंदी में।",
+    "keywords": [
+      "section 199",
+      "199"
+    ]
+  },
+  {
+    "ipc_section": "200",
+    "ipc_title": "Sample IPC Title 200",
+    "bns_section": "200",
+    "bns_title": "Sample BNS Title 200",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 200 in English.",
+    "description_hindi": "धारा 200 का विवरण हिंदी में।",
+    "keywords": [
+      "section 200",
+      "200"
+    ]
+  },
+  {
+    "ipc_section": "201",
+    "ipc_title": "Sample IPC Title 201",
+    "bns_section": "201",
+    "bns_title": "Sample BNS Title 201",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 201 in English.",
+    "description_hindi": "धारा 201 का विवरण हिंदी में।",
+    "keywords": [
+      "section 201",
+      "201"
+    ]
+  },
+  {
+    "ipc_section": "202",
+    "ipc_title": "Sample IPC Title 202",
+    "bns_section": "202",
+    "bns_title": "Sample BNS Title 202",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 202 in English.",
+    "description_hindi": "धारा 202 का विवरण हिंदी में।",
+    "keywords": [
+      "section 202",
+      "202"
+    ]
+  },
+  {
+    "ipc_section": "203",
+    "ipc_title": "Sample IPC Title 203",
+    "bns_section": "203",
+    "bns_title": "Sample BNS Title 203",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 203 in English.",
+    "description_hindi": "धारा 203 का विवरण हिंदी में।",
+    "keywords": [
+      "section 203",
+      "203"
+    ]
+  },
+  {
+    "ipc_section": "204",
+    "ipc_title": "Sample IPC Title 204",
+    "bns_section": "204",
+    "bns_title": "Sample BNS Title 204",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 204 in English.",
+    "description_hindi": "धारा 204 का विवरण हिंदी में।",
+    "keywords": [
+      "section 204",
+      "204"
+    ]
+  },
+  {
+    "ipc_section": "205",
+    "ipc_title": "Sample IPC Title 205",
+    "bns_section": "205",
+    "bns_title": "Sample BNS Title 205",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 205 in English.",
+    "description_hindi": "धारा 205 का विवरण हिंदी में।",
+    "keywords": [
+      "section 205",
+      "205"
+    ]
+  },
+  {
+    "ipc_section": "206",
+    "ipc_title": "Sample IPC Title 206",
+    "bns_section": "206",
+    "bns_title": "Sample BNS Title 206",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 206 in English.",
+    "description_hindi": "धारा 206 का विवरण हिंदी में।",
+    "keywords": [
+      "section 206",
+      "206"
+    ]
+  },
+  {
+    "ipc_section": "207",
+    "ipc_title": "Sample IPC Title 207",
+    "bns_section": "207",
+    "bns_title": "Sample BNS Title 207",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 207 in English.",
+    "description_hindi": "धारा 207 का विवरण हिंदी में।",
+    "keywords": [
+      "section 207",
+      "207"
+    ]
+  },
+  {
+    "ipc_section": "208",
+    "ipc_title": "Sample IPC Title 208",
+    "bns_section": "208",
+    "bns_title": "Sample BNS Title 208",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 208 in English.",
+    "description_hindi": "धारा 208 का विवरण हिंदी में।",
+    "keywords": [
+      "section 208",
+      "208"
+    ]
+  },
+  {
+    "ipc_section": "209",
+    "ipc_title": "Sample IPC Title 209",
+    "bns_section": "209",
+    "bns_title": "Sample BNS Title 209",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 209 in English.",
+    "description_hindi": "धारा 209 का विवरण हिंदी में।",
+    "keywords": [
+      "section 209",
+      "209"
+    ]
+  },
+  {
+    "ipc_section": "210",
+    "ipc_title": "Sample IPC Title 210",
+    "bns_section": "210",
+    "bns_title": "Sample BNS Title 210",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 210 in English.",
+    "description_hindi": "धारा 210 का विवरण हिंदी में।",
+    "keywords": [
+      "section 210",
+      "210"
+    ]
+  },
+  {
+    "ipc_section": "211",
+    "ipc_title": "Sample IPC Title 211",
+    "bns_section": "211",
+    "bns_title": "Sample BNS Title 211",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 211 in English.",
+    "description_hindi": "धारा 211 का विवरण हिंदी में।",
+    "keywords": [
+      "section 211",
+      "211"
+    ]
+  },
+  {
+    "ipc_section": "212",
+    "ipc_title": "Sample IPC Title 212",
+    "bns_section": "212",
+    "bns_title": "Sample BNS Title 212",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 212 in English.",
+    "description_hindi": "धारा 212 का विवरण हिंदी में।",
+    "keywords": [
+      "section 212",
+      "212"
+    ]
+  },
+  {
+    "ipc_section": "213",
+    "ipc_title": "Sample IPC Title 213",
+    "bns_section": "213",
+    "bns_title": "Sample BNS Title 213",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 213 in English.",
+    "description_hindi": "धारा 213 का विवरण हिंदी में।",
+    "keywords": [
+      "section 213",
+      "213"
+    ]
+  },
+  {
+    "ipc_section": "214",
+    "ipc_title": "Sample IPC Title 214",
+    "bns_section": "214",
+    "bns_title": "Sample BNS Title 214",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 214 in English.",
+    "description_hindi": "धारा 214 का विवरण हिंदी में।",
+    "keywords": [
+      "section 214",
+      "214"
+    ]
+  },
+  {
+    "ipc_section": "215",
+    "ipc_title": "Sample IPC Title 215",
+    "bns_section": "215",
+    "bns_title": "Sample BNS Title 215",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 215 in English.",
+    "description_hindi": "धारा 215 का विवरण हिंदी में।",
+    "keywords": [
+      "section 215",
+      "215"
+    ]
+  },
+  {
+    "ipc_section": "216",
+    "ipc_title": "Sample IPC Title 216",
+    "bns_section": "216",
+    "bns_title": "Sample BNS Title 216",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 216 in English.",
+    "description_hindi": "धारा 216 का विवरण हिंदी में।",
+    "keywords": [
+      "section 216",
+      "216"
+    ]
+  },
+  {
+    "ipc_section": "217",
+    "ipc_title": "Sample IPC Title 217",
+    "bns_section": "217",
+    "bns_title": "Sample BNS Title 217",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 217 in English.",
+    "description_hindi": "धारा 217 का विवरण हिंदी में।",
+    "keywords": [
+      "section 217",
+      "217"
+    ]
+  },
+  {
+    "ipc_section": "218",
+    "ipc_title": "Sample IPC Title 218",
+    "bns_section": "218",
+    "bns_title": "Sample BNS Title 218",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 218 in English.",
+    "description_hindi": "धारा 218 का विवरण हिंदी में।",
+    "keywords": [
+      "section 218",
+      "218"
+    ]
+  },
+  {
+    "ipc_section": "219",
+    "ipc_title": "Sample IPC Title 219",
+    "bns_section": "219",
+    "bns_title": "Sample BNS Title 219",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 219 in English.",
+    "description_hindi": "धारा 219 का विवरण हिंदी में।",
+    "keywords": [
+      "section 219",
+      "219"
+    ]
+  },
+  {
+    "ipc_section": "220",
+    "ipc_title": "Sample IPC Title 220",
+    "bns_section": "220",
+    "bns_title": "Sample BNS Title 220",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 220 in English.",
+    "description_hindi": "धारा 220 का विवरण हिंदी में।",
+    "keywords": [
+      "section 220",
+      "220"
+    ]
+  },
+  {
+    "ipc_section": "221",
+    "ipc_title": "Sample IPC Title 221",
+    "bns_section": "221",
+    "bns_title": "Sample BNS Title 221",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 221 in English.",
+    "description_hindi": "धारा 221 का विवरण हिंदी में।",
+    "keywords": [
+      "section 221",
+      "221"
+    ]
+  },
+  {
+    "ipc_section": "222",
+    "ipc_title": "Sample IPC Title 222",
+    "bns_section": "222",
+    "bns_title": "Sample BNS Title 222",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 222 in English.",
+    "description_hindi": "धारा 222 का विवरण हिंदी में।",
+    "keywords": [
+      "section 222",
+      "222"
+    ]
+  },
+  {
+    "ipc_section": "223",
+    "ipc_title": "Sample IPC Title 223",
+    "bns_section": "223",
+    "bns_title": "Sample BNS Title 223",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 223 in English.",
+    "description_hindi": "धारा 223 का विवरण हिंदी में।",
+    "keywords": [
+      "section 223",
+      "223"
+    ]
+  },
+  {
+    "ipc_section": "224",
+    "ipc_title": "Sample IPC Title 224",
+    "bns_section": "224",
+    "bns_title": "Sample BNS Title 224",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 224 in English.",
+    "description_hindi": "धारा 224 का विवरण हिंदी में।",
+    "keywords": [
+      "section 224",
+      "224"
+    ]
+  },
+  {
+    "ipc_section": "225",
+    "ipc_title": "Sample IPC Title 225",
+    "bns_section": "225",
+    "bns_title": "Sample BNS Title 225",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 225 in English.",
+    "description_hindi": "धारा 225 का विवरण हिंदी में।",
+    "keywords": [
+      "section 225",
+      "225"
+    ]
+  },
+  {
+    "ipc_section": "226",
+    "ipc_title": "Sample IPC Title 226",
+    "bns_section": "226",
+    "bns_title": "Sample BNS Title 226",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 226 in English.",
+    "description_hindi": "धारा 226 का विवरण हिंदी में।",
+    "keywords": [
+      "section 226",
+      "226"
+    ]
+  },
+  {
+    "ipc_section": "227",
+    "ipc_title": "Sample IPC Title 227",
+    "bns_section": "227",
+    "bns_title": "Sample BNS Title 227",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 227 in English.",
+    "description_hindi": "धारा 227 का विवरण हिंदी में।",
+    "keywords": [
+      "section 227",
+      "227"
+    ]
+  },
+  {
+    "ipc_section": "228",
+    "ipc_title": "Sample IPC Title 228",
+    "bns_section": "228",
+    "bns_title": "Sample BNS Title 228",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 228 in English.",
+    "description_hindi": "धारा 228 का विवरण हिंदी में।",
+    "keywords": [
+      "section 228",
+      "228"
+    ]
+  },
+  {
+    "ipc_section": "229",
+    "ipc_title": "Sample IPC Title 229",
+    "bns_section": "229",
+    "bns_title": "Sample BNS Title 229",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 229 in English.",
+    "description_hindi": "धारा 229 का विवरण हिंदी में।",
+    "keywords": [
+      "section 229",
+      "229"
+    ]
+  },
+  {
+    "ipc_section": "230",
+    "ipc_title": "Sample IPC Title 230",
+    "bns_section": "230",
+    "bns_title": "Sample BNS Title 230",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 230 in English.",
+    "description_hindi": "धारा 230 का विवरण हिंदी में।",
+    "keywords": [
+      "section 230",
+      "230"
+    ]
+  },
+  {
+    "ipc_section": "231",
+    "ipc_title": "Sample IPC Title 231",
+    "bns_section": "231",
+    "bns_title": "Sample BNS Title 231",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 231 in English.",
+    "description_hindi": "धारा 231 का विवरण हिंदी में।",
+    "keywords": [
+      "section 231",
+      "231"
+    ]
+  },
+  {
+    "ipc_section": "232",
+    "ipc_title": "Sample IPC Title 232",
+    "bns_section": "232",
+    "bns_title": "Sample BNS Title 232",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 232 in English.",
+    "description_hindi": "धारा 232 का विवरण हिंदी में।",
+    "keywords": [
+      "section 232",
+      "232"
+    ]
+  },
+  {
+    "ipc_section": "233",
+    "ipc_title": "Sample IPC Title 233",
+    "bns_section": "233",
+    "bns_title": "Sample BNS Title 233",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 233 in English.",
+    "description_hindi": "धारा 233 का विवरण हिंदी में।",
+    "keywords": [
+      "section 233",
+      "233"
+    ]
+  },
+  {
+    "ipc_section": "234",
+    "ipc_title": "Sample IPC Title 234",
+    "bns_section": "234",
+    "bns_title": "Sample BNS Title 234",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 234 in English.",
+    "description_hindi": "धारा 234 का विवरण हिंदी में।",
+    "keywords": [
+      "section 234",
+      "234"
+    ]
+  },
+  {
+    "ipc_section": "235",
+    "ipc_title": "Sample IPC Title 235",
+    "bns_section": "235",
+    "bns_title": "Sample BNS Title 235",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 235 in English.",
+    "description_hindi": "धारा 235 का विवरण हिंदी में।",
+    "keywords": [
+      "section 235",
+      "235"
+    ]
+  },
+  {
+    "ipc_section": "236",
+    "ipc_title": "Sample IPC Title 236",
+    "bns_section": "236",
+    "bns_title": "Sample BNS Title 236",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 236 in English.",
+    "description_hindi": "धारा 236 का विवरण हिंदी में।",
+    "keywords": [
+      "section 236",
+      "236"
+    ]
+  },
+  {
+    "ipc_section": "237",
+    "ipc_title": "Sample IPC Title 237",
+    "bns_section": "237",
+    "bns_title": "Sample BNS Title 237",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 237 in English.",
+    "description_hindi": "धारा 237 का विवरण हिंदी में।",
+    "keywords": [
+      "section 237",
+      "237"
+    ]
+  },
+  {
+    "ipc_section": "238",
+    "ipc_title": "Sample IPC Title 238",
+    "bns_section": "238",
+    "bns_title": "Sample BNS Title 238",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 238 in English.",
+    "description_hindi": "धारा 238 का विवरण हिंदी में।",
+    "keywords": [
+      "section 238",
+      "238"
+    ]
+  },
+  {
+    "ipc_section": "239",
+    "ipc_title": "Sample IPC Title 239",
+    "bns_section": "239",
+    "bns_title": "Sample BNS Title 239",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 239 in English.",
+    "description_hindi": "धारा 239 का विवरण हिंदी में।",
+    "keywords": [
+      "section 239",
+      "239"
+    ]
+  },
+  {
+    "ipc_section": "240",
+    "ipc_title": "Sample IPC Title 240",
+    "bns_section": "240",
+    "bns_title": "Sample BNS Title 240",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 240 in English.",
+    "description_hindi": "धारा 240 का विवरण हिंदी में।",
+    "keywords": [
+      "section 240",
+      "240"
+    ]
+  },
+  {
+    "ipc_section": "241",
+    "ipc_title": "Sample IPC Title 241",
+    "bns_section": "241",
+    "bns_title": "Sample BNS Title 241",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 241 in English.",
+    "description_hindi": "धारा 241 का विवरण हिंदी में।",
+    "keywords": [
+      "section 241",
+      "241"
+    ]
+  },
+  {
+    "ipc_section": "242",
+    "ipc_title": "Sample IPC Title 242",
+    "bns_section": "242",
+    "bns_title": "Sample BNS Title 242",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 242 in English.",
+    "description_hindi": "धारा 242 का विवरण हिंदी में।",
+    "keywords": [
+      "section 242",
+      "242"
+    ]
+  },
+  {
+    "ipc_section": "243",
+    "ipc_title": "Sample IPC Title 243",
+    "bns_section": "243",
+    "bns_title": "Sample BNS Title 243",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 243 in English.",
+    "description_hindi": "धारा 243 का विवरण हिंदी में।",
+    "keywords": [
+      "section 243",
+      "243"
+    ]
+  },
+  {
+    "ipc_section": "244",
+    "ipc_title": "Sample IPC Title 244",
+    "bns_section": "244",
+    "bns_title": "Sample BNS Title 244",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 244 in English.",
+    "description_hindi": "धारा 244 का विवरण हिंदी में।",
+    "keywords": [
+      "section 244",
+      "244"
+    ]
+  },
+  {
+    "ipc_section": "245",
+    "ipc_title": "Sample IPC Title 245",
+    "bns_section": "245",
+    "bns_title": "Sample BNS Title 245",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 245 in English.",
+    "description_hindi": "धारा 245 का विवरण हिंदी में।",
+    "keywords": [
+      "section 245",
+      "245"
+    ]
+  },
+  {
+    "ipc_section": "246",
+    "ipc_title": "Sample IPC Title 246",
+    "bns_section": "246",
+    "bns_title": "Sample BNS Title 246",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 246 in English.",
+    "description_hindi": "धारा 246 का विवरण हिंदी में।",
+    "keywords": [
+      "section 246",
+      "246"
+    ]
+  },
+  {
+    "ipc_section": "247",
+    "ipc_title": "Sample IPC Title 247",
+    "bns_section": "247",
+    "bns_title": "Sample BNS Title 247",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 247 in English.",
+    "description_hindi": "धारा 247 का विवरण हिंदी में।",
+    "keywords": [
+      "section 247",
+      "247"
+    ]
+  },
+  {
+    "ipc_section": "248",
+    "ipc_title": "Sample IPC Title 248",
+    "bns_section": "248",
+    "bns_title": "Sample BNS Title 248",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 248 in English.",
+    "description_hindi": "धारा 248 का विवरण हिंदी में।",
+    "keywords": [
+      "section 248",
+      "248"
+    ]
+  },
+  {
+    "ipc_section": "249",
+    "ipc_title": "Sample IPC Title 249",
+    "bns_section": "249",
+    "bns_title": "Sample BNS Title 249",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 249 in English.",
+    "description_hindi": "धारा 249 का विवरण हिंदी में।",
+    "keywords": [
+      "section 249",
+      "249"
+    ]
+  },
+  {
+    "ipc_section": "250",
+    "ipc_title": "Sample IPC Title 250",
+    "bns_section": "250",
+    "bns_title": "Sample BNS Title 250",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 250 in English.",
+    "description_hindi": "धारा 250 का विवरण हिंदी में।",
+    "keywords": [
+      "section 250",
+      "250"
+    ]
+  },
+  {
+    "ipc_section": "251",
+    "ipc_title": "Sample IPC Title 251",
+    "bns_section": "251",
+    "bns_title": "Sample BNS Title 251",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 251 in English.",
+    "description_hindi": "धारा 251 का विवरण हिंदी में।",
+    "keywords": [
+      "section 251",
+      "251"
+    ]
+  },
+  {
+    "ipc_section": "252",
+    "ipc_title": "Sample IPC Title 252",
+    "bns_section": "252",
+    "bns_title": "Sample BNS Title 252",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 252 in English.",
+    "description_hindi": "धारा 252 का विवरण हिंदी में।",
+    "keywords": [
+      "section 252",
+      "252"
+    ]
+  },
+  {
+    "ipc_section": "253",
+    "ipc_title": "Sample IPC Title 253",
+    "bns_section": "253",
+    "bns_title": "Sample BNS Title 253",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 253 in English.",
+    "description_hindi": "धारा 253 का विवरण हिंदी में।",
+    "keywords": [
+      "section 253",
+      "253"
+    ]
+  },
+  {
+    "ipc_section": "254",
+    "ipc_title": "Sample IPC Title 254",
+    "bns_section": "254",
+    "bns_title": "Sample BNS Title 254",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 254 in English.",
+    "description_hindi": "धारा 254 का विवरण हिंदी में।",
+    "keywords": [
+      "section 254",
+      "254"
+    ]
+  },
+  {
+    "ipc_section": "255",
+    "ipc_title": "Sample IPC Title 255",
+    "bns_section": "255",
+    "bns_title": "Sample BNS Title 255",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 255 in English.",
+    "description_hindi": "धारा 255 का विवरण हिंदी में।",
+    "keywords": [
+      "section 255",
+      "255"
+    ]
+  },
+  {
+    "ipc_section": "256",
+    "ipc_title": "Sample IPC Title 256",
+    "bns_section": "256",
+    "bns_title": "Sample BNS Title 256",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 256 in English.",
+    "description_hindi": "धारा 256 का विवरण हिंदी में।",
+    "keywords": [
+      "section 256",
+      "256"
+    ]
+  },
+  {
+    "ipc_section": "257",
+    "ipc_title": "Sample IPC Title 257",
+    "bns_section": "257",
+    "bns_title": "Sample BNS Title 257",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 257 in English.",
+    "description_hindi": "धारा 257 का विवरण हिंदी में।",
+    "keywords": [
+      "section 257",
+      "257"
+    ]
+  },
+  {
+    "ipc_section": "258",
+    "ipc_title": "Sample IPC Title 258",
+    "bns_section": "258",
+    "bns_title": "Sample BNS Title 258",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 258 in English.",
+    "description_hindi": "धारा 258 का विवरण हिंदी में।",
+    "keywords": [
+      "section 258",
+      "258"
+    ]
+  },
+  {
+    "ipc_section": "259",
+    "ipc_title": "Sample IPC Title 259",
+    "bns_section": "259",
+    "bns_title": "Sample BNS Title 259",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 259 in English.",
+    "description_hindi": "धारा 259 का विवरण हिंदी में।",
+    "keywords": [
+      "section 259",
+      "259"
+    ]
+  },
+  {
+    "ipc_section": "260",
+    "ipc_title": "Sample IPC Title 260",
+    "bns_section": "260",
+    "bns_title": "Sample BNS Title 260",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 260 in English.",
+    "description_hindi": "धारा 260 का विवरण हिंदी में।",
+    "keywords": [
+      "section 260",
+      "260"
+    ]
+  },
+  {
+    "ipc_section": "261",
+    "ipc_title": "Sample IPC Title 261",
+    "bns_section": "261",
+    "bns_title": "Sample BNS Title 261",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 261 in English.",
+    "description_hindi": "धारा 261 का विवरण हिंदी में।",
+    "keywords": [
+      "section 261",
+      "261"
+    ]
+  },
+  {
+    "ipc_section": "262",
+    "ipc_title": "Sample IPC Title 262",
+    "bns_section": "262",
+    "bns_title": "Sample BNS Title 262",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 262 in English.",
+    "description_hindi": "धारा 262 का विवरण हिंदी में।",
+    "keywords": [
+      "section 262",
+      "262"
+    ]
+  },
+  {
+    "ipc_section": "263",
+    "ipc_title": "Sample IPC Title 263",
+    "bns_section": "263",
+    "bns_title": "Sample BNS Title 263",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 263 in English.",
+    "description_hindi": "धारा 263 का विवरण हिंदी में।",
+    "keywords": [
+      "section 263",
+      "263"
+    ]
+  },
+  {
+    "ipc_section": "264",
+    "ipc_title": "Sample IPC Title 264",
+    "bns_section": "264",
+    "bns_title": "Sample BNS Title 264",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 264 in English.",
+    "description_hindi": "धारा 264 का विवरण हिंदी में।",
+    "keywords": [
+      "section 264",
+      "264"
+    ]
+  },
+  {
+    "ipc_section": "265",
+    "ipc_title": "Sample IPC Title 265",
+    "bns_section": "265",
+    "bns_title": "Sample BNS Title 265",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 265 in English.",
+    "description_hindi": "धारा 265 का विवरण हिंदी में।",
+    "keywords": [
+      "section 265",
+      "265"
+    ]
+  },
+  {
+    "ipc_section": "266",
+    "ipc_title": "Sample IPC Title 266",
+    "bns_section": "266",
+    "bns_title": "Sample BNS Title 266",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 266 in English.",
+    "description_hindi": "धारा 266 का विवरण हिंदी में।",
+    "keywords": [
+      "section 266",
+      "266"
+    ]
+  },
+  {
+    "ipc_section": "267",
+    "ipc_title": "Sample IPC Title 267",
+    "bns_section": "267",
+    "bns_title": "Sample BNS Title 267",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 267 in English.",
+    "description_hindi": "धारा 267 का विवरण हिंदी में।",
+    "keywords": [
+      "section 267",
+      "267"
+    ]
+  },
+  {
+    "ipc_section": "268",
+    "ipc_title": "Sample IPC Title 268",
+    "bns_section": "268",
+    "bns_title": "Sample BNS Title 268",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 268 in English.",
+    "description_hindi": "धारा 268 का विवरण हिंदी में।",
+    "keywords": [
+      "section 268",
+      "268"
+    ]
+  },
+  {
+    "ipc_section": "269",
+    "ipc_title": "Sample IPC Title 269",
+    "bns_section": "269",
+    "bns_title": "Sample BNS Title 269",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 269 in English.",
+    "description_hindi": "धारा 269 का विवरण हिंदी में।",
+    "keywords": [
+      "section 269",
+      "269"
+    ]
+  },
+  {
+    "ipc_section": "270",
+    "ipc_title": "Sample IPC Title 270",
+    "bns_section": "270",
+    "bns_title": "Sample BNS Title 270",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 270 in English.",
+    "description_hindi": "धारा 270 का विवरण हिंदी में।",
+    "keywords": [
+      "section 270",
+      "270"
+    ]
+  },
+  {
+    "ipc_section": "271",
+    "ipc_title": "Sample IPC Title 271",
+    "bns_section": "271",
+    "bns_title": "Sample BNS Title 271",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 271 in English.",
+    "description_hindi": "धारा 271 का विवरण हिंदी में।",
+    "keywords": [
+      "section 271",
+      "271"
+    ]
+  },
+  {
+    "ipc_section": "272",
+    "ipc_title": "Sample IPC Title 272",
+    "bns_section": "272",
+    "bns_title": "Sample BNS Title 272",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 272 in English.",
+    "description_hindi": "धारा 272 का विवरण हिंदी में।",
+    "keywords": [
+      "section 272",
+      "272"
+    ]
+  },
+  {
+    "ipc_section": "273",
+    "ipc_title": "Sample IPC Title 273",
+    "bns_section": "273",
+    "bns_title": "Sample BNS Title 273",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 273 in English.",
+    "description_hindi": "धारा 273 का विवरण हिंदी में।",
+    "keywords": [
+      "section 273",
+      "273"
+    ]
+  },
+  {
+    "ipc_section": "274",
+    "ipc_title": "Sample IPC Title 274",
+    "bns_section": "274",
+    "bns_title": "Sample BNS Title 274",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 274 in English.",
+    "description_hindi": "धारा 274 का विवरण हिंदी में।",
+    "keywords": [
+      "section 274",
+      "274"
+    ]
+  },
+  {
+    "ipc_section": "275",
+    "ipc_title": "Sample IPC Title 275",
+    "bns_section": "275",
+    "bns_title": "Sample BNS Title 275",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 275 in English.",
+    "description_hindi": "धारा 275 का विवरण हिंदी में।",
+    "keywords": [
+      "section 275",
+      "275"
+    ]
+  },
+  {
+    "ipc_section": "276",
+    "ipc_title": "Sample IPC Title 276",
+    "bns_section": "276",
+    "bns_title": "Sample BNS Title 276",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 276 in English.",
+    "description_hindi": "धारा 276 का विवरण हिंदी में।",
+    "keywords": [
+      "section 276",
+      "276"
+    ]
+  },
+  {
+    "ipc_section": "277",
+    "ipc_title": "Sample IPC Title 277",
+    "bns_section": "277",
+    "bns_title": "Sample BNS Title 277",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 277 in English.",
+    "description_hindi": "धारा 277 का विवरण हिंदी में।",
+    "keywords": [
+      "section 277",
+      "277"
+    ]
+  },
+  {
+    "ipc_section": "278",
+    "ipc_title": "Sample IPC Title 278",
+    "bns_section": "278",
+    "bns_title": "Sample BNS Title 278",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 278 in English.",
+    "description_hindi": "धारा 278 का विवरण हिंदी में।",
+    "keywords": [
+      "section 278",
+      "278"
+    ]
+  },
+  {
+    "ipc_section": "279",
+    "ipc_title": "Sample IPC Title 279",
+    "bns_section": "279",
+    "bns_title": "Sample BNS Title 279",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 279 in English.",
+    "description_hindi": "धारा 279 का विवरण हिंदी में।",
+    "keywords": [
+      "section 279",
+      "279"
+    ]
+  },
+  {
+    "ipc_section": "280",
+    "ipc_title": "Sample IPC Title 280",
+    "bns_section": "280",
+    "bns_title": "Sample BNS Title 280",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 280 in English.",
+    "description_hindi": "धारा 280 का विवरण हिंदी में।",
+    "keywords": [
+      "section 280",
+      "280"
+    ]
+  },
+  {
+    "ipc_section": "281",
+    "ipc_title": "Sample IPC Title 281",
+    "bns_section": "281",
+    "bns_title": "Sample BNS Title 281",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 281 in English.",
+    "description_hindi": "धारा 281 का विवरण हिंदी में।",
+    "keywords": [
+      "section 281",
+      "281"
+    ]
+  },
+  {
+    "ipc_section": "282",
+    "ipc_title": "Sample IPC Title 282",
+    "bns_section": "282",
+    "bns_title": "Sample BNS Title 282",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 282 in English.",
+    "description_hindi": "धारा 282 का विवरण हिंदी में।",
+    "keywords": [
+      "section 282",
+      "282"
+    ]
+  },
+  {
+    "ipc_section": "283",
+    "ipc_title": "Sample IPC Title 283",
+    "bns_section": "283",
+    "bns_title": "Sample BNS Title 283",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 283 in English.",
+    "description_hindi": "धारा 283 का विवरण हिंदी में।",
+    "keywords": [
+      "section 283",
+      "283"
+    ]
+  },
+  {
+    "ipc_section": "284",
+    "ipc_title": "Sample IPC Title 284",
+    "bns_section": "284",
+    "bns_title": "Sample BNS Title 284",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 284 in English.",
+    "description_hindi": "धारा 284 का विवरण हिंदी में।",
+    "keywords": [
+      "section 284",
+      "284"
+    ]
+  },
+  {
+    "ipc_section": "285",
+    "ipc_title": "Sample IPC Title 285",
+    "bns_section": "285",
+    "bns_title": "Sample BNS Title 285",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 285 in English.",
+    "description_hindi": "धारा 285 का विवरण हिंदी में।",
+    "keywords": [
+      "section 285",
+      "285"
+    ]
+  },
+  {
+    "ipc_section": "286",
+    "ipc_title": "Sample IPC Title 286",
+    "bns_section": "286",
+    "bns_title": "Sample BNS Title 286",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 286 in English.",
+    "description_hindi": "धारा 286 का विवरण हिंदी में।",
+    "keywords": [
+      "section 286",
+      "286"
+    ]
+  },
+  {
+    "ipc_section": "287",
+    "ipc_title": "Sample IPC Title 287",
+    "bns_section": "287",
+    "bns_title": "Sample BNS Title 287",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 287 in English.",
+    "description_hindi": "धारा 287 का विवरण हिंदी में।",
+    "keywords": [
+      "section 287",
+      "287"
+    ]
+  },
+  {
+    "ipc_section": "288",
+    "ipc_title": "Sample IPC Title 288",
+    "bns_section": "288",
+    "bns_title": "Sample BNS Title 288",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 288 in English.",
+    "description_hindi": "धारा 288 का विवरण हिंदी में।",
+    "keywords": [
+      "section 288",
+      "288"
+    ]
+  },
+  {
+    "ipc_section": "289",
+    "ipc_title": "Sample IPC Title 289",
+    "bns_section": "289",
+    "bns_title": "Sample BNS Title 289",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 289 in English.",
+    "description_hindi": "धारा 289 का विवरण हिंदी में।",
+    "keywords": [
+      "section 289",
+      "289"
+    ]
+  },
+  {
+    "ipc_section": "290",
+    "ipc_title": "Sample IPC Title 290",
+    "bns_section": "290",
+    "bns_title": "Sample BNS Title 290",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 290 in English.",
+    "description_hindi": "धारा 290 का विवरण हिंदी में।",
+    "keywords": [
+      "section 290",
+      "290"
+    ]
+  },
+  {
+    "ipc_section": "291",
+    "ipc_title": "Sample IPC Title 291",
+    "bns_section": "291",
+    "bns_title": "Sample BNS Title 291",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 291 in English.",
+    "description_hindi": "धारा 291 का विवरण हिंदी में।",
+    "keywords": [
+      "section 291",
+      "291"
+    ]
+  },
+  {
+    "ipc_section": "292",
+    "ipc_title": "Sample IPC Title 292",
+    "bns_section": "292",
+    "bns_title": "Sample BNS Title 292",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 292 in English.",
+    "description_hindi": "धारा 292 का विवरण हिंदी में।",
+    "keywords": [
+      "section 292",
+      "292"
+    ]
+  },
+  {
+    "ipc_section": "293",
+    "ipc_title": "Sample IPC Title 293",
+    "bns_section": "293",
+    "bns_title": "Sample BNS Title 293",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 293 in English.",
+    "description_hindi": "धारा 293 का विवरण हिंदी में।",
+    "keywords": [
+      "section 293",
+      "293"
+    ]
+  },
+  {
+    "ipc_section": "294",
+    "ipc_title": "Sample IPC Title 294",
+    "bns_section": "294",
+    "bns_title": "Sample BNS Title 294",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 294 in English.",
+    "description_hindi": "धारा 294 का विवरण हिंदी में।",
+    "keywords": [
+      "section 294",
+      "294"
+    ]
+  },
+  {
+    "ipc_section": "295",
+    "ipc_title": "Sample IPC Title 295",
+    "bns_section": "295",
+    "bns_title": "Sample BNS Title 295",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 295 in English.",
+    "description_hindi": "धारा 295 का विवरण हिंदी में।",
+    "keywords": [
+      "section 295",
+      "295"
+    ]
+  },
+  {
+    "ipc_section": "296",
+    "ipc_title": "Sample IPC Title 296",
+    "bns_section": "296",
+    "bns_title": "Sample BNS Title 296",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 296 in English.",
+    "description_hindi": "धारा 296 का विवरण हिंदी में।",
+    "keywords": [
+      "section 296",
+      "296"
+    ]
+  },
+  {
+    "ipc_section": "297",
+    "ipc_title": "Sample IPC Title 297",
+    "bns_section": "297",
+    "bns_title": "Sample BNS Title 297",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 297 in English.",
+    "description_hindi": "धारा 297 का विवरण हिंदी में।",
+    "keywords": [
+      "section 297",
+      "297"
+    ]
+  },
+  {
+    "ipc_section": "298",
+    "ipc_title": "Sample IPC Title 298",
+    "bns_section": "298",
+    "bns_title": "Sample BNS Title 298",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 298 in English.",
+    "description_hindi": "धारा 298 का विवरण हिंदी में।",
+    "keywords": [
+      "section 298",
+      "298"
+    ]
+  },
+  {
+    "ipc_section": "299",
+    "ipc_title": "Sample IPC Title 299",
+    "bns_section": "299",
+    "bns_title": "Sample BNS Title 299",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 299 in English.",
+    "description_hindi": "धारा 299 का विवरण हिंदी में।",
+    "keywords": [
+      "section 299",
+      "299"
+    ]
+  },
+  {
+    "ipc_section": "300",
+    "ipc_title": "Sample IPC Title 300",
+    "bns_section": "300",
+    "bns_title": "Sample BNS Title 300",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 300 in English.",
+    "description_hindi": "धारा 300 का विवरण हिंदी में।",
+    "keywords": [
+      "section 300",
+      "300"
+    ]
+  },
+  {
+    "ipc_section": "301",
+    "ipc_title": "Sample IPC Title 301",
+    "bns_section": "301",
+    "bns_title": "Sample BNS Title 301",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 301 in English.",
+    "description_hindi": "धारा 301 का विवरण हिंदी में।",
+    "keywords": [
+      "section 301",
+      "301"
+    ]
+  },
+  {
+    "ipc_section": "302",
+    "ipc_title": "Sample IPC Title 302",
+    "bns_section": "302",
+    "bns_title": "Sample BNS Title 302",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 302 in English.",
+    "description_hindi": "धारा 302 का विवरण हिंदी में।",
+    "keywords": [
+      "section 302",
+      "302"
+    ]
+  },
+  {
+    "ipc_section": "303",
+    "ipc_title": "Sample IPC Title 303",
+    "bns_section": "303",
+    "bns_title": "Sample BNS Title 303",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 303 in English.",
+    "description_hindi": "धारा 303 का विवरण हिंदी में।",
+    "keywords": [
+      "section 303",
+      "303"
+    ]
+  },
+  {
+    "ipc_section": "304",
+    "ipc_title": "Sample IPC Title 304",
+    "bns_section": "304",
+    "bns_title": "Sample BNS Title 304",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 304 in English.",
+    "description_hindi": "धारा 304 का विवरण हिंदी में।",
+    "keywords": [
+      "section 304",
+      "304"
+    ]
+  },
+  {
+    "ipc_section": "305",
+    "ipc_title": "Sample IPC Title 305",
+    "bns_section": "305",
+    "bns_title": "Sample BNS Title 305",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 305 in English.",
+    "description_hindi": "धारा 305 का विवरण हिंदी में।",
+    "keywords": [
+      "section 305",
+      "305"
+    ]
+  },
+  {
+    "ipc_section": "306",
+    "ipc_title": "Sample IPC Title 306",
+    "bns_section": "306",
+    "bns_title": "Sample BNS Title 306",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 306 in English.",
+    "description_hindi": "धारा 306 का विवरण हिंदी में।",
+    "keywords": [
+      "section 306",
+      "306"
+    ]
+  },
+  {
+    "ipc_section": "307",
+    "ipc_title": "Sample IPC Title 307",
+    "bns_section": "307",
+    "bns_title": "Sample BNS Title 307",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 307 in English.",
+    "description_hindi": "धारा 307 का विवरण हिंदी में।",
+    "keywords": [
+      "section 307",
+      "307"
+    ]
+  },
+  {
+    "ipc_section": "308",
+    "ipc_title": "Sample IPC Title 308",
+    "bns_section": "308",
+    "bns_title": "Sample BNS Title 308",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 308 in English.",
+    "description_hindi": "धारा 308 का विवरण हिंदी में।",
+    "keywords": [
+      "section 308",
+      "308"
+    ]
+  },
+  {
+    "ipc_section": "309",
+    "ipc_title": "Sample IPC Title 309",
+    "bns_section": "309",
+    "bns_title": "Sample BNS Title 309",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 309 in English.",
+    "description_hindi": "धारा 309 का विवरण हिंदी में।",
+    "keywords": [
+      "section 309",
+      "309"
+    ]
+  },
+  {
+    "ipc_section": "310",
+    "ipc_title": "Sample IPC Title 310",
+    "bns_section": "310",
+    "bns_title": "Sample BNS Title 310",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 310 in English.",
+    "description_hindi": "धारा 310 का विवरण हिंदी में।",
+    "keywords": [
+      "section 310",
+      "310"
+    ]
+  },
+  {
+    "ipc_section": "311",
+    "ipc_title": "Sample IPC Title 311",
+    "bns_section": "311",
+    "bns_title": "Sample BNS Title 311",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 311 in English.",
+    "description_hindi": "धारा 311 का विवरण हिंदी में।",
+    "keywords": [
+      "section 311",
+      "311"
+    ]
+  },
+  {
+    "ipc_section": "312",
+    "ipc_title": "Sample IPC Title 312",
+    "bns_section": "312",
+    "bns_title": "Sample BNS Title 312",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 312 in English.",
+    "description_hindi": "धारा 312 का विवरण हिंदी में।",
+    "keywords": [
+      "section 312",
+      "312"
+    ]
+  },
+  {
+    "ipc_section": "313",
+    "ipc_title": "Sample IPC Title 313",
+    "bns_section": "313",
+    "bns_title": "Sample BNS Title 313",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 313 in English.",
+    "description_hindi": "धारा 313 का विवरण हिंदी में।",
+    "keywords": [
+      "section 313",
+      "313"
+    ]
+  },
+  {
+    "ipc_section": "314",
+    "ipc_title": "Sample IPC Title 314",
+    "bns_section": "314",
+    "bns_title": "Sample BNS Title 314",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 314 in English.",
+    "description_hindi": "धारा 314 का विवरण हिंदी में।",
+    "keywords": [
+      "section 314",
+      "314"
+    ]
+  },
+  {
+    "ipc_section": "315",
+    "ipc_title": "Sample IPC Title 315",
+    "bns_section": "315",
+    "bns_title": "Sample BNS Title 315",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 315 in English.",
+    "description_hindi": "धारा 315 का विवरण हिंदी में।",
+    "keywords": [
+      "section 315",
+      "315"
+    ]
+  },
+  {
+    "ipc_section": "316",
+    "ipc_title": "Sample IPC Title 316",
+    "bns_section": "316",
+    "bns_title": "Sample BNS Title 316",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 316 in English.",
+    "description_hindi": "धारा 316 का विवरण हिंदी में।",
+    "keywords": [
+      "section 316",
+      "316"
+    ]
+  },
+  {
+    "ipc_section": "317",
+    "ipc_title": "Sample IPC Title 317",
+    "bns_section": "317",
+    "bns_title": "Sample BNS Title 317",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 317 in English.",
+    "description_hindi": "धारा 317 का विवरण हिंदी में।",
+    "keywords": [
+      "section 317",
+      "317"
+    ]
+  },
+  {
+    "ipc_section": "318",
+    "ipc_title": "Sample IPC Title 318",
+    "bns_section": "318",
+    "bns_title": "Sample BNS Title 318",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 318 in English.",
+    "description_hindi": "धारा 318 का विवरण हिंदी में।",
+    "keywords": [
+      "section 318",
+      "318"
+    ]
+  },
+  {
+    "ipc_section": "319",
+    "ipc_title": "Sample IPC Title 319",
+    "bns_section": "319",
+    "bns_title": "Sample BNS Title 319",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 319 in English.",
+    "description_hindi": "धारा 319 का विवरण हिंदी में।",
+    "keywords": [
+      "section 319",
+      "319"
+    ]
+  },
+  {
+    "ipc_section": "320",
+    "ipc_title": "Sample IPC Title 320",
+    "bns_section": "320",
+    "bns_title": "Sample BNS Title 320",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 320 in English.",
+    "description_hindi": "धारा 320 का विवरण हिंदी में।",
+    "keywords": [
+      "section 320",
+      "320"
+    ]
+  },
+  {
+    "ipc_section": "321",
+    "ipc_title": "Sample IPC Title 321",
+    "bns_section": "321",
+    "bns_title": "Sample BNS Title 321",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 321 in English.",
+    "description_hindi": "धारा 321 का विवरण हिंदी में।",
+    "keywords": [
+      "section 321",
+      "321"
+    ]
+  },
+  {
+    "ipc_section": "322",
+    "ipc_title": "Sample IPC Title 322",
+    "bns_section": "322",
+    "bns_title": "Sample BNS Title 322",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 322 in English.",
+    "description_hindi": "धारा 322 का विवरण हिंदी में।",
+    "keywords": [
+      "section 322",
+      "322"
+    ]
+  },
+  {
+    "ipc_section": "323",
+    "ipc_title": "Sample IPC Title 323",
+    "bns_section": "323",
+    "bns_title": "Sample BNS Title 323",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 323 in English.",
+    "description_hindi": "धारा 323 का विवरण हिंदी में।",
+    "keywords": [
+      "section 323",
+      "323"
+    ]
+  },
+  {
+    "ipc_section": "324",
+    "ipc_title": "Sample IPC Title 324",
+    "bns_section": "324",
+    "bns_title": "Sample BNS Title 324",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 324 in English.",
+    "description_hindi": "धारा 324 का विवरण हिंदी में।",
+    "keywords": [
+      "section 324",
+      "324"
+    ]
+  },
+  {
+    "ipc_section": "325",
+    "ipc_title": "Sample IPC Title 325",
+    "bns_section": "325",
+    "bns_title": "Sample BNS Title 325",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 325 in English.",
+    "description_hindi": "धारा 325 का विवरण हिंदी में।",
+    "keywords": [
+      "section 325",
+      "325"
+    ]
+  },
+  {
+    "ipc_section": "326",
+    "ipc_title": "Sample IPC Title 326",
+    "bns_section": "326",
+    "bns_title": "Sample BNS Title 326",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 326 in English.",
+    "description_hindi": "धारा 326 का विवरण हिंदी में।",
+    "keywords": [
+      "section 326",
+      "326"
+    ]
+  },
+  {
+    "ipc_section": "327",
+    "ipc_title": "Sample IPC Title 327",
+    "bns_section": "327",
+    "bns_title": "Sample BNS Title 327",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 327 in English.",
+    "description_hindi": "धारा 327 का विवरण हिंदी में।",
+    "keywords": [
+      "section 327",
+      "327"
+    ]
+  },
+  {
+    "ipc_section": "328",
+    "ipc_title": "Sample IPC Title 328",
+    "bns_section": "328",
+    "bns_title": "Sample BNS Title 328",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 328 in English.",
+    "description_hindi": "धारा 328 का विवरण हिंदी में।",
+    "keywords": [
+      "section 328",
+      "328"
+    ]
+  },
+  {
+    "ipc_section": "329",
+    "ipc_title": "Sample IPC Title 329",
+    "bns_section": "329",
+    "bns_title": "Sample BNS Title 329",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 329 in English.",
+    "description_hindi": "धारा 329 का विवरण हिंदी में।",
+    "keywords": [
+      "section 329",
+      "329"
+    ]
+  },
+  {
+    "ipc_section": "330",
+    "ipc_title": "Sample IPC Title 330",
+    "bns_section": "330",
+    "bns_title": "Sample BNS Title 330",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 330 in English.",
+    "description_hindi": "धारा 330 का विवरण हिंदी में।",
+    "keywords": [
+      "section 330",
+      "330"
+    ]
+  },
+  {
+    "ipc_section": "331",
+    "ipc_title": "Sample IPC Title 331",
+    "bns_section": "331",
+    "bns_title": "Sample BNS Title 331",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 331 in English.",
+    "description_hindi": "धारा 331 का विवरण हिंदी में।",
+    "keywords": [
+      "section 331",
+      "331"
+    ]
+  },
+  {
+    "ipc_section": "332",
+    "ipc_title": "Sample IPC Title 332",
+    "bns_section": "332",
+    "bns_title": "Sample BNS Title 332",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 332 in English.",
+    "description_hindi": "धारा 332 का विवरण हिंदी में।",
+    "keywords": [
+      "section 332",
+      "332"
+    ]
+  },
+  {
+    "ipc_section": "333",
+    "ipc_title": "Sample IPC Title 333",
+    "bns_section": "333",
+    "bns_title": "Sample BNS Title 333",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 333 in English.",
+    "description_hindi": "धारा 333 का विवरण हिंदी में।",
+    "keywords": [
+      "section 333",
+      "333"
+    ]
+  },
+  {
+    "ipc_section": "334",
+    "ipc_title": "Sample IPC Title 334",
+    "bns_section": "334",
+    "bns_title": "Sample BNS Title 334",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 334 in English.",
+    "description_hindi": "धारा 334 का विवरण हिंदी में।",
+    "keywords": [
+      "section 334",
+      "334"
+    ]
+  },
+  {
+    "ipc_section": "335",
+    "ipc_title": "Sample IPC Title 335",
+    "bns_section": "335",
+    "bns_title": "Sample BNS Title 335",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 335 in English.",
+    "description_hindi": "धारा 335 का विवरण हिंदी में।",
+    "keywords": [
+      "section 335",
+      "335"
+    ]
+  },
+  {
+    "ipc_section": "336",
+    "ipc_title": "Sample IPC Title 336",
+    "bns_section": "336",
+    "bns_title": "Sample BNS Title 336",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 336 in English.",
+    "description_hindi": "धारा 336 का विवरण हिंदी में।",
+    "keywords": [
+      "section 336",
+      "336"
+    ]
+  },
+  {
+    "ipc_section": "337",
+    "ipc_title": "Sample IPC Title 337",
+    "bns_section": "337",
+    "bns_title": "Sample BNS Title 337",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 337 in English.",
+    "description_hindi": "धारा 337 का विवरण हिंदी में।",
+    "keywords": [
+      "section 337",
+      "337"
+    ]
+  },
+  {
+    "ipc_section": "338",
+    "ipc_title": "Sample IPC Title 338",
+    "bns_section": "338",
+    "bns_title": "Sample BNS Title 338",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 338 in English.",
+    "description_hindi": "धारा 338 का विवरण हिंदी में।",
+    "keywords": [
+      "section 338",
+      "338"
+    ]
+  },
+  {
+    "ipc_section": "339",
+    "ipc_title": "Sample IPC Title 339",
+    "bns_section": "339",
+    "bns_title": "Sample BNS Title 339",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 339 in English.",
+    "description_hindi": "धारा 339 का विवरण हिंदी में।",
+    "keywords": [
+      "section 339",
+      "339"
+    ]
+  },
+  {
+    "ipc_section": "340",
+    "ipc_title": "Sample IPC Title 340",
+    "bns_section": "340",
+    "bns_title": "Sample BNS Title 340",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 340 in English.",
+    "description_hindi": "धारा 340 का विवरण हिंदी में।",
+    "keywords": [
+      "section 340",
+      "340"
+    ]
+  },
+  {
+    "ipc_section": "341",
+    "ipc_title": "Sample IPC Title 341",
+    "bns_section": "341",
+    "bns_title": "Sample BNS Title 341",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 341 in English.",
+    "description_hindi": "धारा 341 का विवरण हिंदी में।",
+    "keywords": [
+      "section 341",
+      "341"
+    ]
+  },
+  {
+    "ipc_section": "342",
+    "ipc_title": "Sample IPC Title 342",
+    "bns_section": "342",
+    "bns_title": "Sample BNS Title 342",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 342 in English.",
+    "description_hindi": "धारा 342 का विवरण हिंदी में।",
+    "keywords": [
+      "section 342",
+      "342"
+    ]
+  },
+  {
+    "ipc_section": "343",
+    "ipc_title": "Sample IPC Title 343",
+    "bns_section": "343",
+    "bns_title": "Sample BNS Title 343",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 343 in English.",
+    "description_hindi": "धारा 343 का विवरण हिंदी में।",
+    "keywords": [
+      "section 343",
+      "343"
+    ]
+  },
+  {
+    "ipc_section": "344",
+    "ipc_title": "Sample IPC Title 344",
+    "bns_section": "344",
+    "bns_title": "Sample BNS Title 344",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 344 in English.",
+    "description_hindi": "धारा 344 का विवरण हिंदी में।",
+    "keywords": [
+      "section 344",
+      "344"
+    ]
+  },
+  {
+    "ipc_section": "345",
+    "ipc_title": "Sample IPC Title 345",
+    "bns_section": "345",
+    "bns_title": "Sample BNS Title 345",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 345 in English.",
+    "description_hindi": "धारा 345 का विवरण हिंदी में।",
+    "keywords": [
+      "section 345",
+      "345"
+    ]
+  },
+  {
+    "ipc_section": "346",
+    "ipc_title": "Sample IPC Title 346",
+    "bns_section": "346",
+    "bns_title": "Sample BNS Title 346",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 346 in English.",
+    "description_hindi": "धारा 346 का विवरण हिंदी में।",
+    "keywords": [
+      "section 346",
+      "346"
+    ]
+  },
+  {
+    "ipc_section": "347",
+    "ipc_title": "Sample IPC Title 347",
+    "bns_section": "347",
+    "bns_title": "Sample BNS Title 347",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 347 in English.",
+    "description_hindi": "धारा 347 का विवरण हिंदी में।",
+    "keywords": [
+      "section 347",
+      "347"
+    ]
+  },
+  {
+    "ipc_section": "348",
+    "ipc_title": "Sample IPC Title 348",
+    "bns_section": "348",
+    "bns_title": "Sample BNS Title 348",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 348 in English.",
+    "description_hindi": "धारा 348 का विवरण हिंदी में।",
+    "keywords": [
+      "section 348",
+      "348"
+    ]
+  },
+  {
+    "ipc_section": "349",
+    "ipc_title": "Sample IPC Title 349",
+    "bns_section": "349",
+    "bns_title": "Sample BNS Title 349",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 349 in English.",
+    "description_hindi": "धारा 349 का विवरण हिंदी में।",
+    "keywords": [
+      "section 349",
+      "349"
+    ]
+  },
+  {
+    "ipc_section": "350",
+    "ipc_title": "Sample IPC Title 350",
+    "bns_section": "350",
+    "bns_title": "Sample BNS Title 350",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 350 in English.",
+    "description_hindi": "धारा 350 का विवरण हिंदी में।",
+    "keywords": [
+      "section 350",
+      "350"
+    ]
+  },
+  {
+    "ipc_section": "351",
+    "ipc_title": "Sample IPC Title 351",
+    "bns_section": "351",
+    "bns_title": "Sample BNS Title 351",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 351 in English.",
+    "description_hindi": "धारा 351 का विवरण हिंदी में।",
+    "keywords": [
+      "section 351",
+      "351"
+    ]
+  },
+  {
+    "ipc_section": "352",
+    "ipc_title": "Sample IPC Title 352",
+    "bns_section": "352",
+    "bns_title": "Sample BNS Title 352",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 352 in English.",
+    "description_hindi": "धारा 352 का विवरण हिंदी में।",
+    "keywords": [
+      "section 352",
+      "352"
+    ]
+  },
+  {
+    "ipc_section": "353",
+    "ipc_title": "Sample IPC Title 353",
+    "bns_section": "353",
+    "bns_title": "Sample BNS Title 353",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 353 in English.",
+    "description_hindi": "धारा 353 का विवरण हिंदी में।",
+    "keywords": [
+      "section 353",
+      "353"
+    ]
+  },
+  {
+    "ipc_section": "354",
+    "ipc_title": "Sample IPC Title 354",
+    "bns_section": "354",
+    "bns_title": "Sample BNS Title 354",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 354 in English.",
+    "description_hindi": "धारा 354 का विवरण हिंदी में।",
+    "keywords": [
+      "section 354",
+      "354"
+    ]
+  },
+  {
+    "ipc_section": "355",
+    "ipc_title": "Sample IPC Title 355",
+    "bns_section": "355",
+    "bns_title": "Sample BNS Title 355",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 355 in English.",
+    "description_hindi": "धारा 355 का विवरण हिंदी में।",
+    "keywords": [
+      "section 355",
+      "355"
+    ]
+  },
+  {
+    "ipc_section": "356",
+    "ipc_title": "Sample IPC Title 356",
+    "bns_section": "356",
+    "bns_title": "Sample BNS Title 356",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 356 in English.",
+    "description_hindi": "धारा 356 का विवरण हिंदी में।",
+    "keywords": [
+      "section 356",
+      "356"
+    ]
+  },
+  {
+    "ipc_section": "357",
+    "ipc_title": "Sample IPC Title 357",
+    "bns_section": "357",
+    "bns_title": "Sample BNS Title 357",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 357 in English.",
+    "description_hindi": "धारा 357 का विवरण हिंदी में।",
+    "keywords": [
+      "section 357",
+      "357"
+    ]
+  },
+  {
+    "ipc_section": "358",
+    "ipc_title": "Sample IPC Title 358",
+    "bns_section": "358",
+    "bns_title": "Sample BNS Title 358",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 358 in English.",
+    "description_hindi": "धारा 358 का विवरण हिंदी में।",
+    "keywords": [
+      "section 358",
+      "358"
+    ]
+  },
+  {
+    "ipc_section": "359",
+    "ipc_title": "Sample IPC Title 359",
+    "bns_section": "359",
+    "bns_title": "Sample BNS Title 359",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 359 in English.",
+    "description_hindi": "धारा 359 का विवरण हिंदी में।",
+    "keywords": [
+      "section 359",
+      "359"
+    ]
+  },
+  {
+    "ipc_section": "360",
+    "ipc_title": "Sample IPC Title 360",
+    "bns_section": "360",
+    "bns_title": "Sample BNS Title 360",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 360 in English.",
+    "description_hindi": "धारा 360 का विवरण हिंदी में।",
+    "keywords": [
+      "section 360",
+      "360"
+    ]
+  },
+  {
+    "ipc_section": "361",
+    "ipc_title": "Sample IPC Title 361",
+    "bns_section": "361",
+    "bns_title": "Sample BNS Title 361",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 361 in English.",
+    "description_hindi": "धारा 361 का विवरण हिंदी में।",
+    "keywords": [
+      "section 361",
+      "361"
+    ]
+  },
+  {
+    "ipc_section": "362",
+    "ipc_title": "Sample IPC Title 362",
+    "bns_section": "362",
+    "bns_title": "Sample BNS Title 362",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 362 in English.",
+    "description_hindi": "धारा 362 का विवरण हिंदी में।",
+    "keywords": [
+      "section 362",
+      "362"
+    ]
+  },
+  {
+    "ipc_section": "363",
+    "ipc_title": "Sample IPC Title 363",
+    "bns_section": "363",
+    "bns_title": "Sample BNS Title 363",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 363 in English.",
+    "description_hindi": "धारा 363 का विवरण हिंदी में।",
+    "keywords": [
+      "section 363",
+      "363"
+    ]
+  },
+  {
+    "ipc_section": "364",
+    "ipc_title": "Sample IPC Title 364",
+    "bns_section": "364",
+    "bns_title": "Sample BNS Title 364",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 364 in English.",
+    "description_hindi": "धारा 364 का विवरण हिंदी में।",
+    "keywords": [
+      "section 364",
+      "364"
+    ]
+  },
+  {
+    "ipc_section": "365",
+    "ipc_title": "Sample IPC Title 365",
+    "bns_section": "365",
+    "bns_title": "Sample BNS Title 365",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 365 in English.",
+    "description_hindi": "धारा 365 का विवरण हिंदी में।",
+    "keywords": [
+      "section 365",
+      "365"
+    ]
+  },
+  {
+    "ipc_section": "366",
+    "ipc_title": "Sample IPC Title 366",
+    "bns_section": "366",
+    "bns_title": "Sample BNS Title 366",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 366 in English.",
+    "description_hindi": "धारा 366 का विवरण हिंदी में।",
+    "keywords": [
+      "section 366",
+      "366"
+    ]
+  },
+  {
+    "ipc_section": "367",
+    "ipc_title": "Sample IPC Title 367",
+    "bns_section": "367",
+    "bns_title": "Sample BNS Title 367",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 367 in English.",
+    "description_hindi": "धारा 367 का विवरण हिंदी में।",
+    "keywords": [
+      "section 367",
+      "367"
+    ]
+  },
+  {
+    "ipc_section": "368",
+    "ipc_title": "Sample IPC Title 368",
+    "bns_section": "368",
+    "bns_title": "Sample BNS Title 368",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 368 in English.",
+    "description_hindi": "धारा 368 का विवरण हिंदी में।",
+    "keywords": [
+      "section 368",
+      "368"
+    ]
+  },
+  {
+    "ipc_section": "369",
+    "ipc_title": "Sample IPC Title 369",
+    "bns_section": "369",
+    "bns_title": "Sample BNS Title 369",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 369 in English.",
+    "description_hindi": "धारा 369 का विवरण हिंदी में।",
+    "keywords": [
+      "section 369",
+      "369"
+    ]
+  },
+  {
+    "ipc_section": "370",
+    "ipc_title": "Sample IPC Title 370",
+    "bns_section": "370",
+    "bns_title": "Sample BNS Title 370",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 370 in English.",
+    "description_hindi": "धारा 370 का विवरण हिंदी में।",
+    "keywords": [
+      "section 370",
+      "370"
+    ]
+  },
+  {
+    "ipc_section": "371",
+    "ipc_title": "Sample IPC Title 371",
+    "bns_section": "371",
+    "bns_title": "Sample BNS Title 371",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 371 in English.",
+    "description_hindi": "धारा 371 का विवरण हिंदी में।",
+    "keywords": [
+      "section 371",
+      "371"
+    ]
+  },
+  {
+    "ipc_section": "372",
+    "ipc_title": "Sample IPC Title 372",
+    "bns_section": "372",
+    "bns_title": "Sample BNS Title 372",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 372 in English.",
+    "description_hindi": "धारा 372 का विवरण हिंदी में।",
+    "keywords": [
+      "section 372",
+      "372"
+    ]
+  },
+  {
+    "ipc_section": "373",
+    "ipc_title": "Sample IPC Title 373",
+    "bns_section": "373",
+    "bns_title": "Sample BNS Title 373",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 373 in English.",
+    "description_hindi": "धारा 373 का विवरण हिंदी में।",
+    "keywords": [
+      "section 373",
+      "373"
+    ]
+  },
+  {
+    "ipc_section": "374",
+    "ipc_title": "Sample IPC Title 374",
+    "bns_section": "374",
+    "bns_title": "Sample BNS Title 374",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 374 in English.",
+    "description_hindi": "धारा 374 का विवरण हिंदी में।",
+    "keywords": [
+      "section 374",
+      "374"
+    ]
+  },
+  {
+    "ipc_section": "375",
+    "ipc_title": "Sample IPC Title 375",
+    "bns_section": "375",
+    "bns_title": "Sample BNS Title 375",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 375 in English.",
+    "description_hindi": "धारा 375 का विवरण हिंदी में।",
+    "keywords": [
+      "section 375",
+      "375"
+    ]
+  },
+  {
+    "ipc_section": "376",
+    "ipc_title": "Sample IPC Title 376",
+    "bns_section": "376",
+    "bns_title": "Sample BNS Title 376",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 376 in English.",
+    "description_hindi": "धारा 376 का विवरण हिंदी में।",
+    "keywords": [
+      "section 376",
+      "376"
+    ]
+  },
+  {
+    "ipc_section": "377",
+    "ipc_title": "Sample IPC Title 377",
+    "bns_section": "377",
+    "bns_title": "Sample BNS Title 377",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 377 in English.",
+    "description_hindi": "धारा 377 का विवरण हिंदी में।",
+    "keywords": [
+      "section 377",
+      "377"
+    ]
+  },
+  {
+    "ipc_section": "378",
+    "ipc_title": "Sample IPC Title 378",
+    "bns_section": "378",
+    "bns_title": "Sample BNS Title 378",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 378 in English.",
+    "description_hindi": "धारा 378 का विवरण हिंदी में।",
+    "keywords": [
+      "section 378",
+      "378"
+    ]
+  },
+  {
+    "ipc_section": "379",
+    "ipc_title": "Sample IPC Title 379",
+    "bns_section": "379",
+    "bns_title": "Sample BNS Title 379",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 379 in English.",
+    "description_hindi": "धारा 379 का विवरण हिंदी में।",
+    "keywords": [
+      "section 379",
+      "379"
+    ]
+  },
+  {
+    "ipc_section": "380",
+    "ipc_title": "Sample IPC Title 380",
+    "bns_section": "380",
+    "bns_title": "Sample BNS Title 380",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 380 in English.",
+    "description_hindi": "धारा 380 का विवरण हिंदी में।",
+    "keywords": [
+      "section 380",
+      "380"
+    ]
+  },
+  {
+    "ipc_section": "381",
+    "ipc_title": "Sample IPC Title 381",
+    "bns_section": "381",
+    "bns_title": "Sample BNS Title 381",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 381 in English.",
+    "description_hindi": "धारा 381 का विवरण हिंदी में।",
+    "keywords": [
+      "section 381",
+      "381"
+    ]
+  },
+  {
+    "ipc_section": "382",
+    "ipc_title": "Sample IPC Title 382",
+    "bns_section": "382",
+    "bns_title": "Sample BNS Title 382",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 382 in English.",
+    "description_hindi": "धारा 382 का विवरण हिंदी में।",
+    "keywords": [
+      "section 382",
+      "382"
+    ]
+  },
+  {
+    "ipc_section": "383",
+    "ipc_title": "Sample IPC Title 383",
+    "bns_section": "383",
+    "bns_title": "Sample BNS Title 383",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 383 in English.",
+    "description_hindi": "धारा 383 का विवरण हिंदी में।",
+    "keywords": [
+      "section 383",
+      "383"
+    ]
+  },
+  {
+    "ipc_section": "384",
+    "ipc_title": "Sample IPC Title 384",
+    "bns_section": "384",
+    "bns_title": "Sample BNS Title 384",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 384 in English.",
+    "description_hindi": "धारा 384 का विवरण हिंदी में।",
+    "keywords": [
+      "section 384",
+      "384"
+    ]
+  },
+  {
+    "ipc_section": "385",
+    "ipc_title": "Sample IPC Title 385",
+    "bns_section": "385",
+    "bns_title": "Sample BNS Title 385",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 385 in English.",
+    "description_hindi": "धारा 385 का विवरण हिंदी में।",
+    "keywords": [
+      "section 385",
+      "385"
+    ]
+  },
+  {
+    "ipc_section": "386",
+    "ipc_title": "Sample IPC Title 386",
+    "bns_section": "386",
+    "bns_title": "Sample BNS Title 386",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 386 in English.",
+    "description_hindi": "धारा 386 का विवरण हिंदी में।",
+    "keywords": [
+      "section 386",
+      "386"
+    ]
+  },
+  {
+    "ipc_section": "387",
+    "ipc_title": "Sample IPC Title 387",
+    "bns_section": "387",
+    "bns_title": "Sample BNS Title 387",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 387 in English.",
+    "description_hindi": "धारा 387 का विवरण हिंदी में।",
+    "keywords": [
+      "section 387",
+      "387"
+    ]
+  },
+  {
+    "ipc_section": "388",
+    "ipc_title": "Sample IPC Title 388",
+    "bns_section": "388",
+    "bns_title": "Sample BNS Title 388",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 388 in English.",
+    "description_hindi": "धारा 388 का विवरण हिंदी में।",
+    "keywords": [
+      "section 388",
+      "388"
+    ]
+  },
+  {
+    "ipc_section": "389",
+    "ipc_title": "Sample IPC Title 389",
+    "bns_section": "389",
+    "bns_title": "Sample BNS Title 389",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 389 in English.",
+    "description_hindi": "धारा 389 का विवरण हिंदी में।",
+    "keywords": [
+      "section 389",
+      "389"
+    ]
+  },
+  {
+    "ipc_section": "390",
+    "ipc_title": "Sample IPC Title 390",
+    "bns_section": "390",
+    "bns_title": "Sample BNS Title 390",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 390 in English.",
+    "description_hindi": "धारा 390 का विवरण हिंदी में।",
+    "keywords": [
+      "section 390",
+      "390"
+    ]
+  },
+  {
+    "ipc_section": "391",
+    "ipc_title": "Sample IPC Title 391",
+    "bns_section": "391",
+    "bns_title": "Sample BNS Title 391",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 391 in English.",
+    "description_hindi": "धारा 391 का विवरण हिंदी में।",
+    "keywords": [
+      "section 391",
+      "391"
+    ]
+  },
+  {
+    "ipc_section": "392",
+    "ipc_title": "Sample IPC Title 392",
+    "bns_section": "392",
+    "bns_title": "Sample BNS Title 392",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 392 in English.",
+    "description_hindi": "धारा 392 का विवरण हिंदी में।",
+    "keywords": [
+      "section 392",
+      "392"
+    ]
+  },
+  {
+    "ipc_section": "393",
+    "ipc_title": "Sample IPC Title 393",
+    "bns_section": "393",
+    "bns_title": "Sample BNS Title 393",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 393 in English.",
+    "description_hindi": "धारा 393 का विवरण हिंदी में।",
+    "keywords": [
+      "section 393",
+      "393"
+    ]
+  },
+  {
+    "ipc_section": "394",
+    "ipc_title": "Sample IPC Title 394",
+    "bns_section": "394",
+    "bns_title": "Sample BNS Title 394",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 394 in English.",
+    "description_hindi": "धारा 394 का विवरण हिंदी में।",
+    "keywords": [
+      "section 394",
+      "394"
+    ]
+  },
+  {
+    "ipc_section": "395",
+    "ipc_title": "Sample IPC Title 395",
+    "bns_section": "395",
+    "bns_title": "Sample BNS Title 395",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 395 in English.",
+    "description_hindi": "धारा 395 का विवरण हिंदी में।",
+    "keywords": [
+      "section 395",
+      "395"
+    ]
+  },
+  {
+    "ipc_section": "396",
+    "ipc_title": "Sample IPC Title 396",
+    "bns_section": "396",
+    "bns_title": "Sample BNS Title 396",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 396 in English.",
+    "description_hindi": "धारा 396 का विवरण हिंदी में।",
+    "keywords": [
+      "section 396",
+      "396"
+    ]
+  },
+  {
+    "ipc_section": "397",
+    "ipc_title": "Sample IPC Title 397",
+    "bns_section": "397",
+    "bns_title": "Sample BNS Title 397",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 397 in English.",
+    "description_hindi": "धारा 397 का विवरण हिंदी में।",
+    "keywords": [
+      "section 397",
+      "397"
+    ]
+  },
+  {
+    "ipc_section": "398",
+    "ipc_title": "Sample IPC Title 398",
+    "bns_section": "398",
+    "bns_title": "Sample BNS Title 398",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 398 in English.",
+    "description_hindi": "धारा 398 का विवरण हिंदी में।",
+    "keywords": [
+      "section 398",
+      "398"
+    ]
+  },
+  {
+    "ipc_section": "399",
+    "ipc_title": "Sample IPC Title 399",
+    "bns_section": "399",
+    "bns_title": "Sample BNS Title 399",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 399 in English.",
+    "description_hindi": "धारा 399 का विवरण हिंदी में।",
+    "keywords": [
+      "section 399",
+      "399"
+    ]
+  },
+  {
+    "ipc_section": "400",
+    "ipc_title": "Sample IPC Title 400",
+    "bns_section": "400",
+    "bns_title": "Sample BNS Title 400",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 400 in English.",
+    "description_hindi": "धारा 400 का विवरण हिंदी में।",
+    "keywords": [
+      "section 400",
+      "400"
+    ]
+  },
+  {
+    "ipc_section": "401",
+    "ipc_title": "Sample IPC Title 401",
+    "bns_section": "401",
+    "bns_title": "Sample BNS Title 401",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 401 in English.",
+    "description_hindi": "धारा 401 का विवरण हिंदी में।",
+    "keywords": [
+      "section 401",
+      "401"
+    ]
+  },
+  {
+    "ipc_section": "402",
+    "ipc_title": "Sample IPC Title 402",
+    "bns_section": "402",
+    "bns_title": "Sample BNS Title 402",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 402 in English.",
+    "description_hindi": "धारा 402 का विवरण हिंदी में।",
+    "keywords": [
+      "section 402",
+      "402"
+    ]
+  },
+  {
+    "ipc_section": "403",
+    "ipc_title": "Sample IPC Title 403",
+    "bns_section": "403",
+    "bns_title": "Sample BNS Title 403",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 403 in English.",
+    "description_hindi": "धारा 403 का विवरण हिंदी में।",
+    "keywords": [
+      "section 403",
+      "403"
+    ]
+  },
+  {
+    "ipc_section": "404",
+    "ipc_title": "Sample IPC Title 404",
+    "bns_section": "404",
+    "bns_title": "Sample BNS Title 404",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 404 in English.",
+    "description_hindi": "धारा 404 का विवरण हिंदी में।",
+    "keywords": [
+      "section 404",
+      "404"
+    ]
+  },
+  {
+    "ipc_section": "405",
+    "ipc_title": "Sample IPC Title 405",
+    "bns_section": "405",
+    "bns_title": "Sample BNS Title 405",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 405 in English.",
+    "description_hindi": "धारा 405 का विवरण हिंदी में।",
+    "keywords": [
+      "section 405",
+      "405"
+    ]
+  },
+  {
+    "ipc_section": "406",
+    "ipc_title": "Sample IPC Title 406",
+    "bns_section": "406",
+    "bns_title": "Sample BNS Title 406",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 406 in English.",
+    "description_hindi": "धारा 406 का विवरण हिंदी में।",
+    "keywords": [
+      "section 406",
+      "406"
+    ]
+  },
+  {
+    "ipc_section": "407",
+    "ipc_title": "Sample IPC Title 407",
+    "bns_section": "407",
+    "bns_title": "Sample BNS Title 407",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 407 in English.",
+    "description_hindi": "धारा 407 का विवरण हिंदी में।",
+    "keywords": [
+      "section 407",
+      "407"
+    ]
+  },
+  {
+    "ipc_section": "408",
+    "ipc_title": "Sample IPC Title 408",
+    "bns_section": "408",
+    "bns_title": "Sample BNS Title 408",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 408 in English.",
+    "description_hindi": "धारा 408 का विवरण हिंदी में।",
+    "keywords": [
+      "section 408",
+      "408"
+    ]
+  },
+  {
+    "ipc_section": "409",
+    "ipc_title": "Sample IPC Title 409",
+    "bns_section": "409",
+    "bns_title": "Sample BNS Title 409",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 409 in English.",
+    "description_hindi": "धारा 409 का विवरण हिंदी में।",
+    "keywords": [
+      "section 409",
+      "409"
+    ]
+  },
+  {
+    "ipc_section": "410",
+    "ipc_title": "Sample IPC Title 410",
+    "bns_section": "410",
+    "bns_title": "Sample BNS Title 410",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 410 in English.",
+    "description_hindi": "धारा 410 का विवरण हिंदी में।",
+    "keywords": [
+      "section 410",
+      "410"
+    ]
+  },
+  {
+    "ipc_section": "411",
+    "ipc_title": "Sample IPC Title 411",
+    "bns_section": "411",
+    "bns_title": "Sample BNS Title 411",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 411 in English.",
+    "description_hindi": "धारा 411 का विवरण हिंदी में।",
+    "keywords": [
+      "section 411",
+      "411"
+    ]
+  },
+  {
+    "ipc_section": "412",
+    "ipc_title": "Sample IPC Title 412",
+    "bns_section": "412",
+    "bns_title": "Sample BNS Title 412",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 412 in English.",
+    "description_hindi": "धारा 412 का विवरण हिंदी में।",
+    "keywords": [
+      "section 412",
+      "412"
+    ]
+  },
+  {
+    "ipc_section": "413",
+    "ipc_title": "Sample IPC Title 413",
+    "bns_section": "413",
+    "bns_title": "Sample BNS Title 413",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 413 in English.",
+    "description_hindi": "धारा 413 का विवरण हिंदी में।",
+    "keywords": [
+      "section 413",
+      "413"
+    ]
+  },
+  {
+    "ipc_section": "414",
+    "ipc_title": "Sample IPC Title 414",
+    "bns_section": "414",
+    "bns_title": "Sample BNS Title 414",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 414 in English.",
+    "description_hindi": "धारा 414 का विवरण हिंदी में।",
+    "keywords": [
+      "section 414",
+      "414"
+    ]
+  },
+  {
+    "ipc_section": "415",
+    "ipc_title": "Sample IPC Title 415",
+    "bns_section": "415",
+    "bns_title": "Sample BNS Title 415",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 415 in English.",
+    "description_hindi": "धारा 415 का विवरण हिंदी में।",
+    "keywords": [
+      "section 415",
+      "415"
+    ]
+  },
+  {
+    "ipc_section": "416",
+    "ipc_title": "Sample IPC Title 416",
+    "bns_section": "416",
+    "bns_title": "Sample BNS Title 416",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 416 in English.",
+    "description_hindi": "धारा 416 का विवरण हिंदी में।",
+    "keywords": [
+      "section 416",
+      "416"
+    ]
+  },
+  {
+    "ipc_section": "417",
+    "ipc_title": "Sample IPC Title 417",
+    "bns_section": "417",
+    "bns_title": "Sample BNS Title 417",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 417 in English.",
+    "description_hindi": "धारा 417 का विवरण हिंदी में।",
+    "keywords": [
+      "section 417",
+      "417"
+    ]
+  },
+  {
+    "ipc_section": "418",
+    "ipc_title": "Sample IPC Title 418",
+    "bns_section": "418",
+    "bns_title": "Sample BNS Title 418",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 418 in English.",
+    "description_hindi": "धारा 418 का विवरण हिंदी में।",
+    "keywords": [
+      "section 418",
+      "418"
+    ]
+  },
+  {
+    "ipc_section": "419",
+    "ipc_title": "Sample IPC Title 419",
+    "bns_section": "419",
+    "bns_title": "Sample BNS Title 419",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 419 in English.",
+    "description_hindi": "धारा 419 का विवरण हिंदी में।",
+    "keywords": [
+      "section 419",
+      "419"
+    ]
+  },
+  {
+    "ipc_section": "420",
+    "ipc_title": "Sample IPC Title 420",
+    "bns_section": "420",
+    "bns_title": "Sample BNS Title 420",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 420 in English.",
+    "description_hindi": "धारा 420 का विवरण हिंदी में।",
+    "keywords": [
+      "section 420",
+      "420"
+    ]
+  },
+  {
+    "ipc_section": "421",
+    "ipc_title": "Sample IPC Title 421",
+    "bns_section": "421",
+    "bns_title": "Sample BNS Title 421",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 421 in English.",
+    "description_hindi": "धारा 421 का विवरण हिंदी में।",
+    "keywords": [
+      "section 421",
+      "421"
+    ]
+  },
+  {
+    "ipc_section": "422",
+    "ipc_title": "Sample IPC Title 422",
+    "bns_section": "422",
+    "bns_title": "Sample BNS Title 422",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 422 in English.",
+    "description_hindi": "धारा 422 का विवरण हिंदी में।",
+    "keywords": [
+      "section 422",
+      "422"
+    ]
+  },
+  {
+    "ipc_section": "423",
+    "ipc_title": "Sample IPC Title 423",
+    "bns_section": "423",
+    "bns_title": "Sample BNS Title 423",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 423 in English.",
+    "description_hindi": "धारा 423 का विवरण हिंदी में।",
+    "keywords": [
+      "section 423",
+      "423"
+    ]
+  },
+  {
+    "ipc_section": "424",
+    "ipc_title": "Sample IPC Title 424",
+    "bns_section": "424",
+    "bns_title": "Sample BNS Title 424",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 424 in English.",
+    "description_hindi": "धारा 424 का विवरण हिंदी में।",
+    "keywords": [
+      "section 424",
+      "424"
+    ]
+  },
+  {
+    "ipc_section": "425",
+    "ipc_title": "Sample IPC Title 425",
+    "bns_section": "425",
+    "bns_title": "Sample BNS Title 425",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 425 in English.",
+    "description_hindi": "धारा 425 का विवरण हिंदी में।",
+    "keywords": [
+      "section 425",
+      "425"
+    ]
+  },
+  {
+    "ipc_section": "426",
+    "ipc_title": "Sample IPC Title 426",
+    "bns_section": "426",
+    "bns_title": "Sample BNS Title 426",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 426 in English.",
+    "description_hindi": "धारा 426 का विवरण हिंदी में।",
+    "keywords": [
+      "section 426",
+      "426"
+    ]
+  },
+  {
+    "ipc_section": "427",
+    "ipc_title": "Sample IPC Title 427",
+    "bns_section": "427",
+    "bns_title": "Sample BNS Title 427",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 427 in English.",
+    "description_hindi": "धारा 427 का विवरण हिंदी में।",
+    "keywords": [
+      "section 427",
+      "427"
+    ]
+  },
+  {
+    "ipc_section": "428",
+    "ipc_title": "Sample IPC Title 428",
+    "bns_section": "428",
+    "bns_title": "Sample BNS Title 428",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 428 in English.",
+    "description_hindi": "धारा 428 का विवरण हिंदी में।",
+    "keywords": [
+      "section 428",
+      "428"
+    ]
+  },
+  {
+    "ipc_section": "429",
+    "ipc_title": "Sample IPC Title 429",
+    "bns_section": "429",
+    "bns_title": "Sample BNS Title 429",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 429 in English.",
+    "description_hindi": "धारा 429 का विवरण हिंदी में।",
+    "keywords": [
+      "section 429",
+      "429"
+    ]
+  },
+  {
+    "ipc_section": "430",
+    "ipc_title": "Sample IPC Title 430",
+    "bns_section": "430",
+    "bns_title": "Sample BNS Title 430",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 430 in English.",
+    "description_hindi": "धारा 430 का विवरण हिंदी में।",
+    "keywords": [
+      "section 430",
+      "430"
+    ]
+  },
+  {
+    "ipc_section": "431",
+    "ipc_title": "Sample IPC Title 431",
+    "bns_section": "431",
+    "bns_title": "Sample BNS Title 431",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 431 in English.",
+    "description_hindi": "धारा 431 का विवरण हिंदी में।",
+    "keywords": [
+      "section 431",
+      "431"
+    ]
+  },
+  {
+    "ipc_section": "432",
+    "ipc_title": "Sample IPC Title 432",
+    "bns_section": "432",
+    "bns_title": "Sample BNS Title 432",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 432 in English.",
+    "description_hindi": "धारा 432 का विवरण हिंदी में।",
+    "keywords": [
+      "section 432",
+      "432"
+    ]
+  },
+  {
+    "ipc_section": "433",
+    "ipc_title": "Sample IPC Title 433",
+    "bns_section": "433",
+    "bns_title": "Sample BNS Title 433",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 433 in English.",
+    "description_hindi": "धारा 433 का विवरण हिंदी में।",
+    "keywords": [
+      "section 433",
+      "433"
+    ]
+  },
+  {
+    "ipc_section": "434",
+    "ipc_title": "Sample IPC Title 434",
+    "bns_section": "434",
+    "bns_title": "Sample BNS Title 434",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 434 in English.",
+    "description_hindi": "धारा 434 का विवरण हिंदी में।",
+    "keywords": [
+      "section 434",
+      "434"
+    ]
+  },
+  {
+    "ipc_section": "435",
+    "ipc_title": "Sample IPC Title 435",
+    "bns_section": "435",
+    "bns_title": "Sample BNS Title 435",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 435 in English.",
+    "description_hindi": "धारा 435 का विवरण हिंदी में।",
+    "keywords": [
+      "section 435",
+      "435"
+    ]
+  },
+  {
+    "ipc_section": "436",
+    "ipc_title": "Sample IPC Title 436",
+    "bns_section": "436",
+    "bns_title": "Sample BNS Title 436",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 436 in English.",
+    "description_hindi": "धारा 436 का विवरण हिंदी में।",
+    "keywords": [
+      "section 436",
+      "436"
+    ]
+  },
+  {
+    "ipc_section": "437",
+    "ipc_title": "Sample IPC Title 437",
+    "bns_section": "437",
+    "bns_title": "Sample BNS Title 437",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 437 in English.",
+    "description_hindi": "धारा 437 का विवरण हिंदी में।",
+    "keywords": [
+      "section 437",
+      "437"
+    ]
+  },
+  {
+    "ipc_section": "438",
+    "ipc_title": "Sample IPC Title 438",
+    "bns_section": "438",
+    "bns_title": "Sample BNS Title 438",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 438 in English.",
+    "description_hindi": "धारा 438 का विवरण हिंदी में।",
+    "keywords": [
+      "section 438",
+      "438"
+    ]
+  },
+  {
+    "ipc_section": "439",
+    "ipc_title": "Sample IPC Title 439",
+    "bns_section": "439",
+    "bns_title": "Sample BNS Title 439",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 439 in English.",
+    "description_hindi": "धारा 439 का विवरण हिंदी में।",
+    "keywords": [
+      "section 439",
+      "439"
+    ]
+  },
+  {
+    "ipc_section": "440",
+    "ipc_title": "Sample IPC Title 440",
+    "bns_section": "440",
+    "bns_title": "Sample BNS Title 440",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 440 in English.",
+    "description_hindi": "धारा 440 का विवरण हिंदी में।",
+    "keywords": [
+      "section 440",
+      "440"
+    ]
+  },
+  {
+    "ipc_section": "441",
+    "ipc_title": "Sample IPC Title 441",
+    "bns_section": "441",
+    "bns_title": "Sample BNS Title 441",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 441 in English.",
+    "description_hindi": "धारा 441 का विवरण हिंदी में।",
+    "keywords": [
+      "section 441",
+      "441"
+    ]
+  },
+  {
+    "ipc_section": "442",
+    "ipc_title": "Sample IPC Title 442",
+    "bns_section": "442",
+    "bns_title": "Sample BNS Title 442",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 442 in English.",
+    "description_hindi": "धारा 442 का विवरण हिंदी में।",
+    "keywords": [
+      "section 442",
+      "442"
+    ]
+  },
+  {
+    "ipc_section": "443",
+    "ipc_title": "Sample IPC Title 443",
+    "bns_section": "443",
+    "bns_title": "Sample BNS Title 443",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 443 in English.",
+    "description_hindi": "धारा 443 का विवरण हिंदी में।",
+    "keywords": [
+      "section 443",
+      "443"
+    ]
+  },
+  {
+    "ipc_section": "444",
+    "ipc_title": "Sample IPC Title 444",
+    "bns_section": "444",
+    "bns_title": "Sample BNS Title 444",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 444 in English.",
+    "description_hindi": "धारा 444 का विवरण हिंदी में।",
+    "keywords": [
+      "section 444",
+      "444"
+    ]
+  },
+  {
+    "ipc_section": "445",
+    "ipc_title": "Sample IPC Title 445",
+    "bns_section": "445",
+    "bns_title": "Sample BNS Title 445",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 445 in English.",
+    "description_hindi": "धारा 445 का विवरण हिंदी में।",
+    "keywords": [
+      "section 445",
+      "445"
+    ]
+  },
+  {
+    "ipc_section": "446",
+    "ipc_title": "Sample IPC Title 446",
+    "bns_section": "446",
+    "bns_title": "Sample BNS Title 446",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 446 in English.",
+    "description_hindi": "धारा 446 का विवरण हिंदी में।",
+    "keywords": [
+      "section 446",
+      "446"
+    ]
+  },
+  {
+    "ipc_section": "447",
+    "ipc_title": "Sample IPC Title 447",
+    "bns_section": "447",
+    "bns_title": "Sample BNS Title 447",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 447 in English.",
+    "description_hindi": "धारा 447 का विवरण हिंदी में।",
+    "keywords": [
+      "section 447",
+      "447"
+    ]
+  },
+  {
+    "ipc_section": "448",
+    "ipc_title": "Sample IPC Title 448",
+    "bns_section": "448",
+    "bns_title": "Sample BNS Title 448",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 448 in English.",
+    "description_hindi": "धारा 448 का विवरण हिंदी में।",
+    "keywords": [
+      "section 448",
+      "448"
+    ]
+  },
+  {
+    "ipc_section": "449",
+    "ipc_title": "Sample IPC Title 449",
+    "bns_section": "449",
+    "bns_title": "Sample BNS Title 449",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 449 in English.",
+    "description_hindi": "धारा 449 का विवरण हिंदी में।",
+    "keywords": [
+      "section 449",
+      "449"
+    ]
+  },
+  {
+    "ipc_section": "450",
+    "ipc_title": "Sample IPC Title 450",
+    "bns_section": "450",
+    "bns_title": "Sample BNS Title 450",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 450 in English.",
+    "description_hindi": "धारा 450 का विवरण हिंदी में।",
+    "keywords": [
+      "section 450",
+      "450"
+    ]
+  },
+  {
+    "ipc_section": "451",
+    "ipc_title": "Sample IPC Title 451",
+    "bns_section": "451",
+    "bns_title": "Sample BNS Title 451",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 451 in English.",
+    "description_hindi": "धारा 451 का विवरण हिंदी में।",
+    "keywords": [
+      "section 451",
+      "451"
+    ]
+  },
+  {
+    "ipc_section": "452",
+    "ipc_title": "Sample IPC Title 452",
+    "bns_section": "452",
+    "bns_title": "Sample BNS Title 452",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 452 in English.",
+    "description_hindi": "धारा 452 का विवरण हिंदी में।",
+    "keywords": [
+      "section 452",
+      "452"
+    ]
+  },
+  {
+    "ipc_section": "453",
+    "ipc_title": "Sample IPC Title 453",
+    "bns_section": "453",
+    "bns_title": "Sample BNS Title 453",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 453 in English.",
+    "description_hindi": "धारा 453 का विवरण हिंदी में।",
+    "keywords": [
+      "section 453",
+      "453"
+    ]
+  },
+  {
+    "ipc_section": "454",
+    "ipc_title": "Sample IPC Title 454",
+    "bns_section": "454",
+    "bns_title": "Sample BNS Title 454",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 454 in English.",
+    "description_hindi": "धारा 454 का विवरण हिंदी में।",
+    "keywords": [
+      "section 454",
+      "454"
+    ]
+  },
+  {
+    "ipc_section": "455",
+    "ipc_title": "Sample IPC Title 455",
+    "bns_section": "455",
+    "bns_title": "Sample BNS Title 455",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 455 in English.",
+    "description_hindi": "धारा 455 का विवरण हिंदी में।",
+    "keywords": [
+      "section 455",
+      "455"
+    ]
+  },
+  {
+    "ipc_section": "456",
+    "ipc_title": "Sample IPC Title 456",
+    "bns_section": "456",
+    "bns_title": "Sample BNS Title 456",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 456 in English.",
+    "description_hindi": "धारा 456 का विवरण हिंदी में।",
+    "keywords": [
+      "section 456",
+      "456"
+    ]
+  },
+  {
+    "ipc_section": "457",
+    "ipc_title": "Sample IPC Title 457",
+    "bns_section": "457",
+    "bns_title": "Sample BNS Title 457",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 457 in English.",
+    "description_hindi": "धारा 457 का विवरण हिंदी में।",
+    "keywords": [
+      "section 457",
+      "457"
+    ]
+  },
+  {
+    "ipc_section": "458",
+    "ipc_title": "Sample IPC Title 458",
+    "bns_section": "458",
+    "bns_title": "Sample BNS Title 458",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 458 in English.",
+    "description_hindi": "धारा 458 का विवरण हिंदी में।",
+    "keywords": [
+      "section 458",
+      "458"
+    ]
+  },
+  {
+    "ipc_section": "459",
+    "ipc_title": "Sample IPC Title 459",
+    "bns_section": "459",
+    "bns_title": "Sample BNS Title 459",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 459 in English.",
+    "description_hindi": "धारा 459 का विवरण हिंदी में।",
+    "keywords": [
+      "section 459",
+      "459"
+    ]
+  },
+  {
+    "ipc_section": "460",
+    "ipc_title": "Sample IPC Title 460",
+    "bns_section": "460",
+    "bns_title": "Sample BNS Title 460",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 460 in English.",
+    "description_hindi": "धारा 460 का विवरण हिंदी में।",
+    "keywords": [
+      "section 460",
+      "460"
+    ]
+  },
+  {
+    "ipc_section": "461",
+    "ipc_title": "Sample IPC Title 461",
+    "bns_section": "461",
+    "bns_title": "Sample BNS Title 461",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 461 in English.",
+    "description_hindi": "धारा 461 का विवरण हिंदी में।",
+    "keywords": [
+      "section 461",
+      "461"
+    ]
+  },
+  {
+    "ipc_section": "462",
+    "ipc_title": "Sample IPC Title 462",
+    "bns_section": "462",
+    "bns_title": "Sample BNS Title 462",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 462 in English.",
+    "description_hindi": "धारा 462 का विवरण हिंदी में।",
+    "keywords": [
+      "section 462",
+      "462"
+    ]
+  },
+  {
+    "ipc_section": "463",
+    "ipc_title": "Sample IPC Title 463",
+    "bns_section": "463",
+    "bns_title": "Sample BNS Title 463",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 463 in English.",
+    "description_hindi": "धारा 463 का विवरण हिंदी में।",
+    "keywords": [
+      "section 463",
+      "463"
+    ]
+  },
+  {
+    "ipc_section": "464",
+    "ipc_title": "Sample IPC Title 464",
+    "bns_section": "464",
+    "bns_title": "Sample BNS Title 464",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 464 in English.",
+    "description_hindi": "धारा 464 का विवरण हिंदी में।",
+    "keywords": [
+      "section 464",
+      "464"
+    ]
+  },
+  {
+    "ipc_section": "465",
+    "ipc_title": "Sample IPC Title 465",
+    "bns_section": "465",
+    "bns_title": "Sample BNS Title 465",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 465 in English.",
+    "description_hindi": "धारा 465 का विवरण हिंदी में।",
+    "keywords": [
+      "section 465",
+      "465"
+    ]
+  },
+  {
+    "ipc_section": "466",
+    "ipc_title": "Sample IPC Title 466",
+    "bns_section": "466",
+    "bns_title": "Sample BNS Title 466",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 466 in English.",
+    "description_hindi": "धारा 466 का विवरण हिंदी में।",
+    "keywords": [
+      "section 466",
+      "466"
+    ]
+  },
+  {
+    "ipc_section": "467",
+    "ipc_title": "Sample IPC Title 467",
+    "bns_section": "467",
+    "bns_title": "Sample BNS Title 467",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 467 in English.",
+    "description_hindi": "धारा 467 का विवरण हिंदी में।",
+    "keywords": [
+      "section 467",
+      "467"
+    ]
+  },
+  {
+    "ipc_section": "468",
+    "ipc_title": "Sample IPC Title 468",
+    "bns_section": "468",
+    "bns_title": "Sample BNS Title 468",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 468 in English.",
+    "description_hindi": "धारा 468 का विवरण हिंदी में।",
+    "keywords": [
+      "section 468",
+      "468"
+    ]
+  },
+  {
+    "ipc_section": "469",
+    "ipc_title": "Sample IPC Title 469",
+    "bns_section": "469",
+    "bns_title": "Sample BNS Title 469",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 469 in English.",
+    "description_hindi": "धारा 469 का विवरण हिंदी में।",
+    "keywords": [
+      "section 469",
+      "469"
+    ]
+  },
+  {
+    "ipc_section": "470",
+    "ipc_title": "Sample IPC Title 470",
+    "bns_section": "470",
+    "bns_title": "Sample BNS Title 470",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 470 in English.",
+    "description_hindi": "धारा 470 का विवरण हिंदी में।",
+    "keywords": [
+      "section 470",
+      "470"
+    ]
+  },
+  {
+    "ipc_section": "471",
+    "ipc_title": "Sample IPC Title 471",
+    "bns_section": "471",
+    "bns_title": "Sample BNS Title 471",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 471 in English.",
+    "description_hindi": "धारा 471 का विवरण हिंदी में।",
+    "keywords": [
+      "section 471",
+      "471"
+    ]
+  },
+  {
+    "ipc_section": "472",
+    "ipc_title": "Sample IPC Title 472",
+    "bns_section": "472",
+    "bns_title": "Sample BNS Title 472",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 472 in English.",
+    "description_hindi": "धारा 472 का विवरण हिंदी में।",
+    "keywords": [
+      "section 472",
+      "472"
+    ]
+  },
+  {
+    "ipc_section": "473",
+    "ipc_title": "Sample IPC Title 473",
+    "bns_section": "473",
+    "bns_title": "Sample BNS Title 473",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 473 in English.",
+    "description_hindi": "धारा 473 का विवरण हिंदी में।",
+    "keywords": [
+      "section 473",
+      "473"
+    ]
+  },
+  {
+    "ipc_section": "474",
+    "ipc_title": "Sample IPC Title 474",
+    "bns_section": "474",
+    "bns_title": "Sample BNS Title 474",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 474 in English.",
+    "description_hindi": "धारा 474 का विवरण हिंदी में।",
+    "keywords": [
+      "section 474",
+      "474"
+    ]
+  },
+  {
+    "ipc_section": "475",
+    "ipc_title": "Sample IPC Title 475",
+    "bns_section": "475",
+    "bns_title": "Sample BNS Title 475",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 475 in English.",
+    "description_hindi": "धारा 475 का विवरण हिंदी में।",
+    "keywords": [
+      "section 475",
+      "475"
+    ]
+  },
+  {
+    "ipc_section": "476",
+    "ipc_title": "Sample IPC Title 476",
+    "bns_section": "476",
+    "bns_title": "Sample BNS Title 476",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 476 in English.",
+    "description_hindi": "धारा 476 का विवरण हिंदी में।",
+    "keywords": [
+      "section 476",
+      "476"
+    ]
+  },
+  {
+    "ipc_section": "477",
+    "ipc_title": "Sample IPC Title 477",
+    "bns_section": "477",
+    "bns_title": "Sample BNS Title 477",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 477 in English.",
+    "description_hindi": "धारा 477 का विवरण हिंदी में।",
+    "keywords": [
+      "section 477",
+      "477"
+    ]
+  },
+  {
+    "ipc_section": "478",
+    "ipc_title": "Sample IPC Title 478",
+    "bns_section": "478",
+    "bns_title": "Sample BNS Title 478",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 478 in English.",
+    "description_hindi": "धारा 478 का विवरण हिंदी में।",
+    "keywords": [
+      "section 478",
+      "478"
+    ]
+  },
+  {
+    "ipc_section": "479",
+    "ipc_title": "Sample IPC Title 479",
+    "bns_section": "479",
+    "bns_title": "Sample BNS Title 479",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 479 in English.",
+    "description_hindi": "धारा 479 का विवरण हिंदी में।",
+    "keywords": [
+      "section 479",
+      "479"
+    ]
+  },
+  {
+    "ipc_section": "480",
+    "ipc_title": "Sample IPC Title 480",
+    "bns_section": "480",
+    "bns_title": "Sample BNS Title 480",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 480 in English.",
+    "description_hindi": "धारा 480 का विवरण हिंदी में।",
+    "keywords": [
+      "section 480",
+      "480"
+    ]
+  },
+  {
+    "ipc_section": "481",
+    "ipc_title": "Sample IPC Title 481",
+    "bns_section": "481",
+    "bns_title": "Sample BNS Title 481",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 481 in English.",
+    "description_hindi": "धारा 481 का विवरण हिंदी में।",
+    "keywords": [
+      "section 481",
+      "481"
+    ]
+  },
+  {
+    "ipc_section": "482",
+    "ipc_title": "Sample IPC Title 482",
+    "bns_section": "482",
+    "bns_title": "Sample BNS Title 482",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 482 in English.",
+    "description_hindi": "धारा 482 का विवरण हिंदी में।",
+    "keywords": [
+      "section 482",
+      "482"
+    ]
+  },
+  {
+    "ipc_section": "483",
+    "ipc_title": "Sample IPC Title 483",
+    "bns_section": "483",
+    "bns_title": "Sample BNS Title 483",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 483 in English.",
+    "description_hindi": "धारा 483 का विवरण हिंदी में।",
+    "keywords": [
+      "section 483",
+      "483"
+    ]
+  },
+  {
+    "ipc_section": "484",
+    "ipc_title": "Sample IPC Title 484",
+    "bns_section": "484",
+    "bns_title": "Sample BNS Title 484",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 484 in English.",
+    "description_hindi": "धारा 484 का विवरण हिंदी में।",
+    "keywords": [
+      "section 484",
+      "484"
+    ]
+  },
+  {
+    "ipc_section": "485",
+    "ipc_title": "Sample IPC Title 485",
+    "bns_section": "485",
+    "bns_title": "Sample BNS Title 485",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 485 in English.",
+    "description_hindi": "धारा 485 का विवरण हिंदी में।",
+    "keywords": [
+      "section 485",
+      "485"
+    ]
+  },
+  {
+    "ipc_section": "486",
+    "ipc_title": "Sample IPC Title 486",
+    "bns_section": "486",
+    "bns_title": "Sample BNS Title 486",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 486 in English.",
+    "description_hindi": "धारा 486 का विवरण हिंदी में।",
+    "keywords": [
+      "section 486",
+      "486"
+    ]
+  },
+  {
+    "ipc_section": "487",
+    "ipc_title": "Sample IPC Title 487",
+    "bns_section": "487",
+    "bns_title": "Sample BNS Title 487",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 487 in English.",
+    "description_hindi": "धारा 487 का विवरण हिंदी में।",
+    "keywords": [
+      "section 487",
+      "487"
+    ]
+  },
+  {
+    "ipc_section": "488",
+    "ipc_title": "Sample IPC Title 488",
+    "bns_section": "488",
+    "bns_title": "Sample BNS Title 488",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 488 in English.",
+    "description_hindi": "धारा 488 का विवरण हिंदी में।",
+    "keywords": [
+      "section 488",
+      "488"
+    ]
+  },
+  {
+    "ipc_section": "489",
+    "ipc_title": "Sample IPC Title 489",
+    "bns_section": "489",
+    "bns_title": "Sample BNS Title 489",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 489 in English.",
+    "description_hindi": "धारा 489 का विवरण हिंदी में।",
+    "keywords": [
+      "section 489",
+      "489"
+    ]
+  },
+  {
+    "ipc_section": "490",
+    "ipc_title": "Sample IPC Title 490",
+    "bns_section": "490",
+    "bns_title": "Sample BNS Title 490",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 490 in English.",
+    "description_hindi": "धारा 490 का विवरण हिंदी में।",
+    "keywords": [
+      "section 490",
+      "490"
+    ]
+  },
+  {
+    "ipc_section": "491",
+    "ipc_title": "Sample IPC Title 491",
+    "bns_section": "491",
+    "bns_title": "Sample BNS Title 491",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 491 in English.",
+    "description_hindi": "धारा 491 का विवरण हिंदी में।",
+    "keywords": [
+      "section 491",
+      "491"
+    ]
+  },
+  {
+    "ipc_section": "492",
+    "ipc_title": "Sample IPC Title 492",
+    "bns_section": "492",
+    "bns_title": "Sample BNS Title 492",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 492 in English.",
+    "description_hindi": "धारा 492 का विवरण हिंदी में।",
+    "keywords": [
+      "section 492",
+      "492"
+    ]
+  },
+  {
+    "ipc_section": "493",
+    "ipc_title": "Sample IPC Title 493",
+    "bns_section": "493",
+    "bns_title": "Sample BNS Title 493",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 493 in English.",
+    "description_hindi": "धारा 493 का विवरण हिंदी में।",
+    "keywords": [
+      "section 493",
+      "493"
+    ]
+  },
+  {
+    "ipc_section": "494",
+    "ipc_title": "Sample IPC Title 494",
+    "bns_section": "494",
+    "bns_title": "Sample BNS Title 494",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 494 in English.",
+    "description_hindi": "धारा 494 का विवरण हिंदी में।",
+    "keywords": [
+      "section 494",
+      "494"
+    ]
+  },
+  {
+    "ipc_section": "495",
+    "ipc_title": "Sample IPC Title 495",
+    "bns_section": "495",
+    "bns_title": "Sample BNS Title 495",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 495 in English.",
+    "description_hindi": "धारा 495 का विवरण हिंदी में।",
+    "keywords": [
+      "section 495",
+      "495"
+    ]
+  },
+  {
+    "ipc_section": "496",
+    "ipc_title": "Sample IPC Title 496",
+    "bns_section": "496",
+    "bns_title": "Sample BNS Title 496",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 496 in English.",
+    "description_hindi": "धारा 496 का विवरण हिंदी में।",
+    "keywords": [
+      "section 496",
+      "496"
+    ]
+  },
+  {
+    "ipc_section": "497",
+    "ipc_title": "Sample IPC Title 497",
+    "bns_section": "497",
+    "bns_title": "Sample BNS Title 497",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 497 in English.",
+    "description_hindi": "धारा 497 का विवरण हिंदी में।",
+    "keywords": [
+      "section 497",
+      "497"
+    ]
+  },
+  {
+    "ipc_section": "498",
+    "ipc_title": "Sample IPC Title 498",
+    "bns_section": "498",
+    "bns_title": "Sample BNS Title 498",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 498 in English.",
+    "description_hindi": "धारा 498 का विवरण हिंदी में।",
+    "keywords": [
+      "section 498",
+      "498"
+    ]
+  },
+  {
+    "ipc_section": "499",
+    "ipc_title": "Sample IPC Title 499",
+    "bns_section": "499",
+    "bns_title": "Sample BNS Title 499",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 499 in English.",
+    "description_hindi": "धारा 499 का विवरण हिंदी में।",
+    "keywords": [
+      "section 499",
+      "499"
+    ]
+  },
+  {
+    "ipc_section": "500",
+    "ipc_title": "Sample IPC Title 500",
+    "bns_section": "500",
+    "bns_title": "Sample BNS Title 500",
+    "punishment": "Punishment info here",
+    "description_english": "Description of IPC Section 500 in English.",
+    "description_hindi": "धारा 500 का विवरण हिंदी में।",
+    "keywords": [
+      "section 500",
+      "500"
+    ]
+  }
+]
